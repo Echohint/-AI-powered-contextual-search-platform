@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background: #0f172a;
+  /* Slate 900 */
+  color: #f1f5f9;
+  /* Slate 100 */
+  min-height: 100vh;
+}

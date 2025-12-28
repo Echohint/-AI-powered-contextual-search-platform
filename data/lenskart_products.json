@@ -1,0 +1,157 @@
+[
+    {
+        "title": "Vincent Chase Polarized Aviator Sunglasses",
+        "description": "Classic black aviator sunglasses with polarized lenses. Perfect for driving and outdoor activities. 100% UV protection.",
+        "price": 1499,
+        "category": "Sunglasses",
+        "attributes": {
+            "brand": "Vincent Chase",
+            "color": "Black",
+            "frameType": "Full Rim",
+            "frameShape": "Aviator",
+            "gender": "Men"
+        }
+    },
+    {
+        "title": "John Jacobs Rimless Rectangle Eyeglasses",
+        "description": "Sleek and professional rimless eyeglasses with silver titanium temples. Lightweight and comfortable for all-day wear.",
+        "price": 3500,
+        "category": "Eyeglasses",
+        "attributes": {
+            "brand": "John Jacobs",
+            "color": "Silver",
+            "frameType": "Rimless",
+            "frameShape": "Rectangle",
+            "gender": "Unisex"
+        }
+    },
+    {
+        "title": "Lenskart Air Blue Light Blocking Glasses",
+        "description": "Transparent square frames with chaotic blue light blocking lenses. Essential for gamers and coders to reduce eye strain.",
+        "price": 2000,
+        "category": "Computer Glasses",
+        "attributes": {
+            "brand": "Lenskart Air",
+            "color": "Transparent",
+            "frameType": "Full Rim",
+            "frameShape": "Square",
+            "gender": "Unisex"
+        }
+    },
+    {
+        "title": "Vincent Chase Cat Eye Sunglasses Gold",
+        "description": "Trendy gold metal cat-eye sunglasses for women. Adds a touch of glamour to any outfit.",
+        "price": 1299,
+        "category": "Sunglasses",
+        "attributes": {
+            "brand": "Vincent Chase",
+            "color": "Gold",
+            "frameType": "Full Rim",
+            "frameShape": "Cat Eye",
+            "gender": "Women"
+        }
+    },
+    {
+        "title": "Aquacolor Monthly Disposable Contact Lenses - Gray",
+        "description": "Monthly disposable color contact lenses in Slate Gray. High water content for moisture and comfort.",
+        "price": 600,
+        "category": "Contact Lenses",
+        "attributes": {
+            "brand": "Aquacolor",
+            "color": "Gray",
+            "type": "Monthly",
+            "gender": "Unisex"
+        }
+    },
+    {
+        "title": "Lenskart Blu Round Eyeglasses Matte Black",
+        "description": "Retro round eyeglasses in matte black. Features BLU Cut lenses to protect from digital screens.",
+        "price": 1199,
+        "category": "Eyeglasses",
+        "attributes": {
+            "brand": "Lenskart Blu",
+            "color": "Black",
+            "frameType": "Full Rim",
+            "frameShape": "Round",
+            "gender": "Unisex"
+        }
+    },
+    {
+        "title": "Hooper Kids Flexible Wayfarer Eyeglasses",
+        "description": "Durable and flexible blue wayfarer glasses for kids. Unbreakable material designed for active children.",
+        "price": 999,
+        "category": "Kids Eyeglasses",
+        "attributes": {
+            "brand": "Hooper",
+            "color": "Blue",
+            "frameType": "Full Rim",
+            "frameShape": "Wayfarer",
+            "gender": "Kids"
+        }
+    },
+    {
+        "title": "John Jacobs Supreme Steel Wayfarer",
+        "description": "Premium stainless steel wayfarer frames in gunmetal finish. sophisticated look for business meetings.",
+        "price": 4500,
+        "category": "Eyeglasses",
+        "attributes": {
+            "brand": "John Jacobs",
+            "color": "Gunmetal",
+            "frameType": "Full Rim",
+            "frameShape": "Wayfarer",
+            "gender": "Men"
+        }
+    },
+    {
+        "title": "Vincent Chase Polarized Wayfarer Matte Blue",
+        "description": "Sporty matte blue wayfarer sunglasses with mirrored blue lenses. Ideal for beach vacations and sports.",
+        "price": 1999,
+        "category": "Sunglasses",
+        "attributes": {
+            "brand": "Vincent Chase",
+            "color": "Blue",
+            "frameType": "Full Rim",
+            "frameShape": "Wayfarer",
+            "gender": "Unisex"
+        }
+    },
+    {
+        "title": "Lenskart Air Half Rim Rectangle Gray",
+        "description": "Professional half-rim gray glasses. Ultra-light TR90 material for barely-there feel.",
+        "price": 1500,
+        "category": "Eyeglasses",
+        "attributes": {
+            "brand": "Lenskart Air",
+            "color": "Gray",
+            "frameType": "Half Rim",
+            "frameShape": "Rectangle",
+            "gender": "Men"
+        }
+    },
+    {
+        "title": "Gold Framed Aviators with Pink Tint",
+        "description": "Fashion-forward gold titanium aviators with a soft pink gradient tint. chic and stylish.",
+        "price": 2499,
+        "category": "Sunglasses",
+        "attributes": {
+            "brand": "Vincent Chase",
+            "color": "Pink",
+            "frameType": "Full Rim",
+            "frameShape": "Aviator",
+            "gender": "Women"
+        }
+    },
+    {
+        "title": "Tortoise Shell Reading Glasses",
+        "description": "Classic tortoise shell patterned reading glasses +1.50 power. Comfortable fit for reading books and mobiles.",
+        "price": 800,
+        "category": "Reading Glasses",
+        "attributes": {
+            "brand": "Lenskart",
+            "color": "Brown",
+            "frameType": "Full Rim",
+            "frameShape": "Rectangle",
+            "gender": "Unisex"
+        }
+    }
+]

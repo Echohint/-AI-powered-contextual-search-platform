@@ -1,0 +1,301 @@
+product_id,title,description,category,brand,price,rating,color,material
+P0001,"Bausch & Lomb Stylish Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Bausch & Lomb,4280,4.9,Silver,Polycarbonate
+P0002,"Titan Trendy Geometric Glasses","Trendy frames that fit perfectly. Great for fashion styling.",Eyeglasses,Titan,4900,3.8,Gold,Polycarbonate
+P0003,"Vincent Chase Classic Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,6774,3.1,Blue,Ultem
+P0004,"Fastrack Flexible Rimless Glasses","Minimalist rimless glasses crafted from Metal. Designed for daily office wear.",Eyeglasses,Fastrack,9243,3.5,Transparent,Metal
+P0005,"Vincent Chase Retro Rimless Glasses","Retro frames that fit perfectly. Great for reading.",Eyeglasses,Vincent Chase,1333,4.9,Gold,Polycarbonate
+P0006,"Police Flexible Wayfarers","Classic wayfarers with a Flexible finish. Perfect for sunny days and driving.",Sunglasses,Police,5728,3.0,Black,Stainless Steel
+P0007,"Lenskart Blu Stylish Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,2939,3.1,Transparent,Titanium
+P0008,"Lenskart Air Classic Cat-Eye Frames","Minimalist cat-eye frames crafted from Stainless Steel. Designed for reading.",Eyeglasses,Lenskart Air,6027,3.4,Transparent,Stainless Steel
+P0009,"Ray-Ban Classic Aviators","Classic shades designed for beach vacations. Comes with polarized lenses.",Sunglasses,Ray-Ban,4776,4.7,Silver,Ultem
+P0010,"John Jacobs Flexible Rimless Glasses","Flexible frames that fit perfectly. Great for fashion styling.",Eyeglasses,John Jacobs,5116,5.0,Blue,Titanium
+P0011,"Aqualens Lightweight Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. high water content.",Contact Lenses,Aqualens,1151,3.7,Black,TR90
+P0012,"Vincent Chase Durable Rectangular Shades","Make a statement with these Durable Vincent Chase sunglasses. Ideal for outdoor sports.",Sunglasses,Vincent Chase,5784,4.7,Black,TR90
+P0013,"Titan Premium Cat-Eye Frames","Minimalist cat-eye frames crafted from Titanium. Designed for screen work.",Eyeglasses,Titan,6438,4.7,Grey,Titanium
+P0014,"Fossil Matte Clubmasters","Matte shades designed for fashion statements. Comes with polarized lenses.",Sunglasses,Fossil,4620,3.1,Gold,Acetate
+P0015,"Bausch & Lomb Classic Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Bausch & Lomb,9137,3.3,Gold,Polycarbonate
+P0016,"Johnson & Johnson Retro Daily Disposables","Retro contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,6634,4.2,Black,Metal
+P0017,"Oakley Lightweight Cat-Eye Sunglasses","Make a statement with these Lightweight Oakley sunglasses. Ideal for driving.",Sunglasses,Oakley,2300,3.6,Grey,TR90
+P0018,"Oakley Retro Cat-Eye Sunglasses","Make a statement with these Retro Oakley sunglasses. Ideal for beach vacations.",Sunglasses,Oakley,3984,3.7,Grey,Polycarbonate
+P0019,"Carrera Trendy Cat-Eye Sunglasses","Make a statement with these Trendy Carrera sunglasses. Ideal for driving.",Sunglasses,Carrera,3006,4.8,Transparent,TR90
+P0020,"Lenskart Blu Classic Blue Cut Aviators","Block harmful blue light with these Classic blue cut aviators. Reduces eye strain.",Computer Glasses,Lenskart Blu,2451,3.0,Gunmetal,Ultem
+P0021,"Alcon Durable Toric Lenses","Durable contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,4904,4.4,Silver,Ultem
+P0022,"Bausch & Lomb Trendy Daily Disposables","Breathable lenses perfect for sports. Keeps eyes hydrated all day.",Contact Lenses,Bausch & Lomb,2364,3.2,Grey,Acetate
+P0023,"Vincent Chase Modern Gaming Glasses","Perfect for binge-watching. These glasses feature blue light filter and a Modern frame.",Computer Glasses,Vincent Chase,2882,5.0,Gunmetal,Acetate
+P0024,"John Jacobs Premium Round Frames","Experience all-day comfort with these Premium round frames. Made from lightweight Stainless Steel.",Eyeglasses,John Jacobs,5731,3.5,Silver,Stainless Steel
+P0025,"Vincent Chase Matte Rimless Glasses","Experience all-day comfort with these Matte rimless glasses. Made from lightweight Ultem.",Eyeglasses,Vincent Chase,1585,4.9,Gunmetal,Ultem
+P0026,"Vincent Chase Modern Zero Power Wayfarers","Perfect for late-night work. These glasses feature shock resistance and a Modern frame.",Computer Glasses,Vincent Chase,5946,3.4,Grey,Metal
+P0027,"Lenskart Blu Lightweight Computer Glasses","Perfect for binge-watching. These glasses feature yellow tint and a Lightweight frame.",Computer Glasses,Lenskart Blu,4391,4.2,Rose Gold,Metal
+P0028,"Bausch & Lomb Durable Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Bausch & Lomb,9973,4.2,Rose Gold,Polycarbonate
+P0029,"Ray-Ban Classic Rectangular Shades","Classic rectangular shades with a Classic finish. Perfect for sunny days and driving.",Sunglasses,Ray-Ban,1563,4.2,Transparent,Polycarbonate
+P0030,"Carrera Durable Aviators","Classic aviators with a Durable finish. Perfect for sunny days and driving.",Sunglasses,Carrera,1601,4.7,Gunmetal,Polycarbonate
+P0031,"Vincent Chase Modern Computer Glasses","Block harmful blue light with these Modern computer glasses. Reduces eye strain.",Computer Glasses,Vincent Chase,5801,3.4,Grey,Metal
+P0032,"Titan Matte Geometric Glasses","Experience all-day comfort with these Matte geometric glasses. Made from lightweight Titanium.",Eyeglasses,Titan,7680,4.4,Rose Gold,Titanium
+P0033,"Vincent Chase Stylish Blue Cut Aviators","Perfect for late-night work. These glasses feature shock resistance and a Stylish frame.",Computer Glasses,Vincent Chase,3256,3.7,Gunmetal,Polycarbonate
+P0034,"Aqualens Flexible Monthly Disposables","Flexible contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Aqualens,2494,3.2,Gunmetal,Metal
+P0035,"Vincent Chase Modern Sports Sunglasses","Make a statement with these Modern Vincent Chase sunglasses. Ideal for fashion statements.",Sunglasses,Vincent Chase,9597,3.1,Grey,Metal
+P0036,"Titan Matte Geometric Glasses","Experience all-day comfort with these Matte geometric glasses. Made from lightweight Ultem.",Eyeglasses,Titan,5982,3.1,Silver,Ultem
+P0037,"Vincent Chase Durable Zero Power Wayfarers","Block harmful blue light with these Durable zero power wayfarers. Reduces eye strain.",Computer Glasses,Vincent Chase,8651,3.9,Brown,Acetate
+P0038,"Vincent Chase Durable Round Frames","Sophisticated round frames for a professional look. Features lightweight design.",Eyeglasses,Vincent Chase,4535,3.9,Gold,Stainless Steel
+P0039,"Alcon Trendy Monthly Disposables","Breathable lenses perfect for vision correction. Keeps eyes hydrated all day.",Contact Lenses,Alcon,2702,3.3,Grey,Ultem
+P0040,"Lenskart Air Classic Blue Cut Aviators","Block harmful blue light with these Classic blue cut aviators. Reduces eye strain.",Computer Glasses,Lenskart Air,3572,3.9,Gold,TR90
+P0041,"Oakley Classic Rectangular Shades","Classic rectangular shades with a Classic finish. Perfect for sunny days and driving.",Sunglasses,Oakley,7362,4.8,Rose Gold,Polycarbonate
+P0042,"Vincent Chase Trendy Half-Rim Frames","Trendy frames that fit perfectly. Great for reading.",Eyeglasses,Vincent Chase,4937,3.2,Blue,Metal
+P0043,"Lenskart Air Flexible Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,9497,4.7,Tortoise,TR90
+P0044,"Vincent Chase Stylish Aviators","Make a statement with these Stylish Vincent Chase sunglasses. Ideal for fashion statements.",Sunglasses,Vincent Chase,7985,4.6,Rose Gold,TR90
+P0045,"Bausch & Lomb Flexible Toric Lenses","Flexible contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Bausch & Lomb,4320,3.2,Silver,Acetate
+P0046,"Titan Matte Rectangular Glasses","Sophisticated rectangular glasses for a professional look. Features lightweight design.",Eyeglasses,Titan,7164,3.5,Tortoise,Titanium
+P0047,"Alcon Modern Colored Lenses","Modern contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,4574,4.8,Gold,TR90
+P0048,"Ray-Ban Lightweight Rectangular Glasses","Sophisticated rectangular glasses for a professional look. Features flexible hinges.",Eyeglasses,Ray-Ban,4247,3.3,Transparent,Titanium
+P0049,"CooperVision Premium Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. high water content.",Contact Lenses,CooperVision,8750,3.9,Grey,Metal
+P0050,"John Jacobs Flexible Gaming Glasses","Block harmful blue light with these Flexible gaming glasses. Reduces eye strain.",Computer Glasses,John Jacobs,1077,4.0,Gold,Ultem
+P0051,"Johnson & Johnson Stylish Colored Lenses","Breathable lenses perfect for daily wear. Keeps eyes hydrated all day.",Contact Lenses,Johnson & Johnson,7312,4.7,Blue,Acetate
+P0052,"CooperVision Retro Colored Lenses","Retro contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,CooperVision,6650,4.6,Tortoise,Titanium
+P0053,"Johnson & Johnson Trendy Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. high water content.",Contact Lenses,Johnson & Johnson,1504,4.6,Blue,TR90
+P0054,"Lenskart Blu Flexible Zero Power Wayfarers","Block harmful blue light with these Flexible zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Blu,8394,4.9,Gold,Ultem
+P0055,"Bausch & Lomb Classic Toric Lenses","Classic contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Bausch & Lomb,6138,4.2,Tortoise,Metal
+P0056,"CooperVision Classic Toric Lenses","Classic contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,CooperVision,2061,3.7,Black,TR90
+P0057,"CooperVision Flexible Toric Lenses","Breathable lenses perfect for vision correction. Keeps eyes hydrated all day.",Contact Lenses,CooperVision,2940,3.4,Rose Gold,Titanium
+P0058,"Aqualens Trendy Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. high water content.",Contact Lenses,Aqualens,785,3.8,Silver,Metal
+P0059,"Lenskart Air Classic Cat-Eye Frames","Minimalist cat-eye frames crafted from Acetate. Designed for screen work.",Eyeglasses,Lenskart Air,3161,3.6,Silver,Acetate
+P0060,"John Jacobs Premium Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,8905,3.3,Blue,Stainless Steel
+P0061,"John Jacobs Retro Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,7950,3.8,Gunmetal,Stainless Steel
+P0062,"Lenskart Blu Trendy Zero Power Wayfarers","Block harmful blue light with these Trendy zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Blu,3614,3.6,Brown,Polycarbonate
+P0063,"Carrera Stylish Wayfarers","Stylish shades designed for beach vacations. Comes with polarized lenses.",Sunglasses,Carrera,8777,4.9,Silver,Metal
+P0064,"John Jacobs Durable Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,792,3.2,Tortoise,Ultem
+P0065,"Vincent Chase Stylish Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,5937,4.5,Tortoise,Acetate
+P0066,"Titan Modern Geometric Glasses","Experience all-day comfort with these Modern geometric glasses. Made from lightweight Titanium.",Eyeglasses,Titan,5904,4.3,Grey,Titanium
+P0067,"Johnson & Johnson Durable Daily Disposables","Durable contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,9503,4.6,Rose Gold,Polycarbonate
+P0068,"Ray-Ban Durable Cat-Eye Sunglasses","Durable shades designed for fashion statements. Comes with polarized lenses.",Sunglasses,Ray-Ban,6954,4.9,Tortoise,Acetate
+P0069,"John Jacobs Classic Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,2837,4.5,Black,Metal
+P0070,"Carrera Matte Aviators","Matte shades designed for fashion statements. Comes with polarized lenses.",Sunglasses,Carrera,4284,5.0,Transparent,Metal
+P0071,"Oakley Retro Round Sunglasses","Classic round sunglasses with a Retro finish. Perfect for sunny days and driving.",Sunglasses,Oakley,5820,3.6,Gold,Polycarbonate
+P0072,"Vincent Chase Durable Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,8735,3.8,Gunmetal,Stainless Steel
+P0073,"Alcon Modern Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Alcon,867,4.6,Silver,Titanium
+P0074,"Titan Trendy Half-Rim Frames","Minimalist half-rim frames crafted from Polycarbonate. Designed for screen work.",Eyeglasses,Titan,910,3.0,Silver,Polycarbonate
+P0075,"Ray-Ban Retro Rectangular Glasses","Retro frames that fit perfectly. Great for daily office wear.",Eyeglasses,Ray-Ban,546,3.7,Silver,Titanium
+P0076,"Vincent Chase Premium Rectangular Shades","Premium shades designed for fashion statements. Comes with polarized lenses.",Sunglasses,Vincent Chase,9460,4.8,Gunmetal,Titanium
+P0077,"Oakley Modern Wayfarers","Modern shades designed for beach vacations. Comes with polarized lenses.",Sunglasses,Oakley,1488,3.2,Grey,Acetate
+P0078,"Vogue Matte Round Sunglasses","Matte shades designed for beach vacations. Comes with polarized lenses.",Sunglasses,Vogue,5144,4.8,Silver,Titanium
+P0079,"Lenskart Blu Modern Gaming Glasses","Perfect for coding. These glasses feature blue light filter and a Modern frame.",Computer Glasses,Lenskart Blu,1988,4.0,Grey,Metal
+P0080,"Oakley Premium Wayfarers","Premium shades designed for casual outings. Comes with polarized lenses.",Sunglasses,Oakley,551,4.7,Blue,Titanium
+P0081,"Bausch & Lomb Trendy Daily Disposables","Trendy contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Bausch & Lomb,9751,3.7,Gunmetal,Polycarbonate
+P0082,"Bausch & Lomb Trendy Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. silicone hydrogel.",Contact Lenses,Bausch & Lomb,9629,3.6,Transparent,Acetate
+P0083,"Lenskart Air Flexible Computer Glasses","Perfect for binge-watching. These glasses feature yellow tint and a Flexible frame.",Computer Glasses,Lenskart Air,9025,3.2,Brown,Stainless Steel
+P0084,"Aqualens Stylish Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. UV block.",Contact Lenses,Aqualens,3862,3.5,Black,Titanium
+P0085,"Lenskart Air Matte Zero Power Wayfarers","Perfect for binge-watching. These glasses feature shock resistance and a Matte frame.",Computer Glasses,Lenskart Air,5357,3.4,Gunmetal,Titanium
+P0086,"Aqualens Premium Daily Disposables","Breathable lenses perfect for daily wear. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,9146,4.3,Black,Acetate
+P0087,"CooperVision Classic Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. high water content.",Contact Lenses,CooperVision,7345,4.0,Grey,Polycarbonate
+P0088,"Police Modern Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Modern finish. Perfect for sunny days and driving.",Sunglasses,Police,1945,4.1,Silver,Stainless Steel
+P0089,"CooperVision Matte Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. UV block.",Contact Lenses,CooperVision,3866,4.1,Gold,Ultem
+P0090,"CooperVision Retro Toric Lenses","Breathable lenses perfect for occasional use. Keeps eyes hydrated all day.",Contact Lenses,CooperVision,7819,4.0,Black,Titanium
+P0091,"Lenskart Air Trendy Gaming Glasses","Block harmful blue light with these Trendy gaming glasses. Reduces eye strain.",Computer Glasses,Lenskart Air,8599,3.7,Silver,Acetate
+P0092,"Alcon Trendy Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. UV block.",Contact Lenses,Alcon,5570,4.5,Rose Gold,Titanium
+P0093,"Vincent Chase Lightweight Gaming Glasses","Work comfortably for hours with these gaming glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,9341,3.7,Rose Gold,Metal
+P0094,"Ray-Ban Durable Geometric Glasses","Experience all-day comfort with these Durable geometric glasses. Made from lightweight Ultem.",Eyeglasses,Ray-Ban,4495,4.2,Rose Gold,Ultem
+P0095,"Alcon Classic Colored Lenses","Classic contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,3331,4.2,Tortoise,Polycarbonate
+P0096,"Ray-Ban Durable Wayfarers","Durable shades designed for casual outings. Comes with polarized lenses.",Sunglasses,Ray-Ban,7579,4.6,Transparent,Acetate
+P0097,"Titan Trendy Round Frames","Trendy frames that fit perfectly. Great for fashion styling.",Eyeglasses,Titan,4836,3.8,Blue,Titanium
+P0098,"Alcon Matte Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Alcon,3826,4.6,Gold,Titanium
+P0099,"Aqualens Durable Toric Lenses","Breathable lenses perfect for vision correction. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,9277,3.9,Silver,Polycarbonate
+P0100,"Lenskart Air Premium Blue Cut Aviators","Perfect for binge-watching. These glasses feature shock resistance and a Premium frame.",Computer Glasses,Lenskart Air,9419,3.4,Gunmetal,TR90
+P0101,"Vincent Chase Lightweight Blue Cut Aviators","Block harmful blue light with these Lightweight blue cut aviators. Reduces eye strain.",Computer Glasses,Vincent Chase,4105,4.9,Tortoise,Titanium
+P0102,"Lenskart Air Modern Zero Power Wayfarers","Block harmful blue light with these Modern zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Air,6399,3.7,Blue,TR90
+P0103,"Vincent Chase Retro Aviators","Classic aviators with a Retro finish. Perfect for sunny days and driving.",Sunglasses,Vincent Chase,541,4.3,Silver,Titanium
+P0104,"John Jacobs Premium Cat-Eye Sunglasses","Protect your eyes in style with these Premium cat-eye sunglasses. Features UV400 protection.",Sunglasses,John Jacobs,1847,4.4,Gunmetal,Stainless Steel
+P0105,"John Jacobs Retro Gaming Glasses","Perfect for coding. These glasses feature blue light filter and a Retro frame.",Computer Glasses,John Jacobs,9928,3.3,Tortoise,Stainless Steel
+P0106,"Vincent Chase Flexible Gaming Glasses","Work comfortably for hours with these gaming glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,8895,3.7,Grey,Titanium
+P0107,"Alcon Retro Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. high water content.",Contact Lenses,Alcon,4746,4.8,Brown,Polycarbonate
+P0108,"Ray-Ban Modern Geometric Glasses","Modern frames that fit perfectly. Great for daily office wear.",Eyeglasses,Ray-Ban,5693,3.2,Silver,TR90
+P0109,"Titan Retro Rectangular Glasses","Retro frames that fit perfectly. Great for fashion styling.",Eyeglasses,Titan,7385,4.8,Gold,Stainless Steel
+P0110,"Bausch & Lomb Modern Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. UV block.",Contact Lenses,Bausch & Lomb,823,4.5,Grey,Metal
+P0111,"Alcon Durable Colored Lenses","Durable contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,8055,4.0,Brown,Stainless Steel
+P0112,"Vincent Chase Trendy Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,7551,4.4,Blue,Metal
+P0113,"Vincent Chase Lightweight Computer Glasses","Block harmful blue light with these Lightweight computer glasses. Reduces eye strain.",Computer Glasses,Vincent Chase,2600,3.8,Grey,Ultem
+P0114,"Carrera Stylish Sports Sunglasses","Protect your eyes in style with these Stylish sports sunglasses. Features UV400 protection.",Sunglasses,Carrera,7407,4.4,Gold,Ultem
+P0115,"CooperVision Flexible Monthly Disposables","Flexible contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,CooperVision,5989,4.1,Blue,TR90
+P0116,"Titan Modern Half-Rim Frames","Minimalist half-rim frames crafted from TR90. Designed for reading.",Eyeglasses,Titan,8959,4.8,Black,TR90
+P0117,"Lenskart Blu Matte Gaming Glasses","Block harmful blue light with these Matte gaming glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,3694,4.9,Blue,Stainless Steel
+P0118,"Aqualens Retro Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. silicone hydrogel.",Contact Lenses,Aqualens,9680,4.4,Tortoise,Ultem
+P0119,"Titan Flexible Geometric Glasses","Minimalist geometric glasses crafted from Polycarbonate. Designed for screen work.",Eyeglasses,Titan,4944,4.6,Tortoise,Polycarbonate
+P0120,"Lenskart Air Durable Gaming Glasses","Perfect for gaming. These glasses feature anti-glare coating and a Durable frame.",Computer Glasses,Lenskart Air,2969,3.1,Blue,TR90
+P0121,"Titan Retro Round Frames","Sophisticated round frames for a professional look. Features adjustable nose pads.",Eyeglasses,Titan,3720,3.9,Silver,Stainless Steel
+P0122,"Ray-Ban Matte Round Frames","Matte frames that fit perfectly. Great for fashion styling.",Eyeglasses,Ray-Ban,1540,4.7,Tortoise,Ultem
+P0123,"John Jacobs Premium Gaming Glasses","Block harmful blue light with these Premium gaming glasses. Reduces eye strain.",Computer Glasses,John Jacobs,5480,4.5,Tortoise,TR90
+P0124,"Oakley Modern Cat-Eye Sunglasses","Protect your eyes in style with these Modern cat-eye sunglasses. Features UV400 protection.",Sunglasses,Oakley,1362,4.5,Silver,TR90
+P0125,"Bausch & Lomb Lightweight Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. high water content.",Contact Lenses,Bausch & Lomb,880,4.8,Gunmetal,Acetate
+P0126,"Johnson & Johnson Premium Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Johnson & Johnson,8518,4.7,Gold,Acetate
+P0127,"Carrera Matte Aviators","Classic aviators with a Matte finish. Perfect for sunny days and driving.",Sunglasses,Carrera,9360,4.1,Gunmetal,TR90
+P0128,"Ray-Ban Flexible Round Frames","Flexible frames that fit perfectly. Great for daily office wear.",Eyeglasses,Ray-Ban,4985,3.5,Black,Acetate
+P0129,"Lenskart Air Stylish Cat-Eye Frames","Stylish frames that fit perfectly. Great for screen work.",Eyeglasses,Lenskart Air,6148,3.4,Black,Titanium
+P0130,"CooperVision Retro Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. UV block.",Contact Lenses,CooperVision,8004,4.5,Transparent,TR90
+P0131,"Police Modern Clubmasters","Modern shades designed for casual outings. Comes with polarized lenses.",Sunglasses,Police,662,3.8,Blue,Titanium
+P0132,"CooperVision Trendy Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. silicone hydrogel.",Contact Lenses,CooperVision,3436,3.4,Tortoise,TR90
+P0133,"Bausch & Lomb Lightweight Colored Lenses","Lightweight contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Bausch & Lomb,7434,3.9,Tortoise,Stainless Steel
+P0134,"Lenskart Blu Flexible Zero Power Wayfarers","Block harmful blue light with these Flexible zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Blu,767,3.6,Gold,Metal
+P0135,"Vogue Lightweight Cat-Eye Sunglasses","Make a statement with these Lightweight Vogue sunglasses. Ideal for driving.",Sunglasses,Vogue,529,4.3,Gold,Metal
+P0136,"Lenskart Air Durable Rectangular Glasses","Minimalist rectangular glasses crafted from TR90. Designed for daily office wear.",Eyeglasses,Lenskart Air,4251,3.7,Gunmetal,TR90
+P0137,"Fastrack Stylish Half-Rim Frames","Minimalist half-rim frames crafted from Acetate. Designed for fashion styling.",Eyeglasses,Fastrack,4744,5.0,Tortoise,Acetate
+P0138,"Lenskart Blu Modern Gaming Glasses","Perfect for coding. These glasses feature yellow tint and a Modern frame.",Computer Glasses,Lenskart Blu,1129,3.5,Rose Gold,Titanium
+P0139,"Oakley Stylish Round Sunglasses","Make a statement with these Stylish Oakley sunglasses. Ideal for outdoor sports.",Sunglasses,Oakley,603,4.1,Gold,Stainless Steel
+P0140,"Vincent Chase Durable Round Frames","Sophisticated round frames for a professional look. Features flexible hinges.",Eyeglasses,Vincent Chase,5242,4.3,Brown,Stainless Steel
+P0141,"Vincent Chase Premium Cat-Eye Frames","Premium frames that fit perfectly. Great for screen work.",Eyeglasses,Vincent Chase,5489,4.7,Rose Gold,Ultem
+P0142,"Vincent Chase Durable Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,9300,4.0,Black,Ultem
+P0143,"John Jacobs Premium Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,8054,3.4,Transparent,TR90
+P0144,"Lenskart Air Trendy Blue Cut Aviators","Block harmful blue light with these Trendy blue cut aviators. Reduces eye strain.",Computer Glasses,Lenskart Air,7039,3.5,Tortoise,Titanium
+P0145,"Vincent Chase Flexible Aviators","Classic aviators with a Flexible finish. Perfect for sunny days and driving.",Sunglasses,Vincent Chase,5255,3.4,Gold,Polycarbonate
+P0146,"Alcon Stylish Toric Lenses","Stylish contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,6895,4.9,Grey,Polycarbonate
+P0147,"Vincent Chase Durable Geometric Glasses","Experience all-day comfort with these Durable geometric glasses. Made from lightweight Stainless Steel.",Eyeglasses,Vincent Chase,4114,4.6,Black,Stainless Steel
+P0148,"John Jacobs Matte Cat-Eye Frames","Experience all-day comfort with these Matte cat-eye frames. Made from lightweight Titanium.",Eyeglasses,John Jacobs,3178,3.2,Silver,Titanium
+P0149,"Vincent Chase Premium Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,6066,3.7,Transparent,Stainless Steel
+P0150,"John Jacobs Stylish Aviators","Classic aviators with a Stylish finish. Perfect for sunny days and driving.",Sunglasses,John Jacobs,1784,4.1,Grey,Ultem
+P0151,"Johnson & Johnson Durable Monthly Disposables","Durable contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,7131,3.9,Grey,Ultem
+P0152,"CooperVision Modern Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. UV block.",Contact Lenses,CooperVision,1523,3.4,Tortoise,Acetate
+P0153,"Ray-Ban Trendy Round Sunglasses","Make a statement with these Trendy Ray-Ban sunglasses. Ideal for outdoor sports.",Sunglasses,Ray-Ban,9996,3.3,Blue,Metal
+P0154,"Aqualens Matte Toric Lenses","Breathable lenses perfect for sports. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,3656,4.3,Blue,Titanium
+P0155,"John Jacobs Classic Sports Sunglasses","Classic shades designed for outdoor sports. Comes with polarized lenses.",Sunglasses,John Jacobs,5364,3.9,Rose Gold,Stainless Steel
+P0156,"CooperVision Premium Daily Disposables","Breathable lenses perfect for occasional use. Keeps eyes hydrated all day.",Contact Lenses,CooperVision,9087,4.8,Grey,Polycarbonate
+P0157,"Carrera Durable Aviators","Make a statement with these Durable Carrera sunglasses. Ideal for casual outings.",Sunglasses,Carrera,5245,3.6,Black,Stainless Steel
+P0158,"Lenskart Blu Retro Computer Glasses","Block harmful blue light with these Retro computer glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,8177,4.7,Black,Stainless Steel
+P0159,"John Jacobs Lightweight Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,2400,4.9,Gunmetal,Titanium
+P0160,"Ray-Ban Flexible Geometric Glasses","Flexible frames that fit perfectly. Great for fashion styling.",Eyeglasses,Ray-Ban,9607,4.9,Grey,Polycarbonate
+P0161,"Aqualens Classic Daily Disposables","Breathable lenses perfect for sports. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,5824,3.6,Blue,Stainless Steel
+P0162,"John Jacobs Lightweight Cat-Eye Sunglasses","Make a statement with these Lightweight John Jacobs sunglasses. Ideal for outdoor sports.",Sunglasses,John Jacobs,3255,4.6,Silver,Ultem
+P0163,"John Jacobs Modern Rectangular Glasses","Minimalist rectangular glasses crafted from Ultem. Designed for screen work.",Eyeglasses,John Jacobs,6933,3.7,Transparent,Ultem
+P0164,"Lenskart Air Durable Zero Power Wayfarers","Block harmful blue light with these Durable zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Air,8616,3.3,Rose Gold,Acetate
+P0165,"Lenskart Blu Trendy Gaming Glasses","Block harmful blue light with these Trendy gaming glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,4360,4.8,Gunmetal,Stainless Steel
+P0166,"Vincent Chase Lightweight Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,6158,4.6,Silver,Metal
+P0167,"Fastrack Durable Cat-Eye Frames","Sophisticated cat-eye frames for a professional look. Features flexible hinges.",Eyeglasses,Fastrack,4521,5.0,Transparent,Stainless Steel
+P0168,"Fastrack Flexible Geometric Glasses","Sophisticated geometric glasses for a professional look. Features adjustable nose pads.",Eyeglasses,Fastrack,8337,4.4,Gold,Metal
+P0169,"CooperVision Flexible Toric Lenses","Breathable lenses perfect for occasional use. Keeps eyes hydrated all day.",Contact Lenses,CooperVision,4563,3.2,Gold,Acetate
+P0170,"Lenskart Air Trendy Gaming Glasses","Perfect for coding. These glasses feature yellow tint and a Trendy frame.",Computer Glasses,Lenskart Air,5654,4.5,Tortoise,Stainless Steel
+P0171,"Alcon Lightweight Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Alcon,2415,4.2,Rose Gold,TR90
+P0172,"John Jacobs Stylish Gaming Glasses","Block harmful blue light with these Stylish gaming glasses. Reduces eye strain.",Computer Glasses,John Jacobs,4931,3.7,Silver,Acetate
+P0173,"Lenskart Blu Trendy Gaming Glasses","Block harmful blue light with these Trendy gaming glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,5186,3.7,Blue,Metal
+P0174,"Johnson & Johnson Lightweight Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. high water content.",Contact Lenses,Johnson & Johnson,7369,5.0,Gold,TR90
+P0175,"Vincent Chase Classic Gaming Glasses","Work comfortably for hours with these gaming glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,2313,3.1,Brown,Ultem
+P0176,"Fossil Flexible Round Sunglasses","Protect your eyes in style with these Flexible round sunglasses. Features UV400 protection.",Sunglasses,Fossil,7842,4.6,Black,Polycarbonate
+P0177,"Lenskart Air Classic Cat-Eye Frames","Minimalist cat-eye frames crafted from Metal. Designed for fashion styling.",Eyeglasses,Lenskart Air,4321,4.6,Black,Metal
+P0178,"Ray-Ban Lightweight Rimless Glasses","Experience all-day comfort with these Lightweight rimless glasses. Made from lightweight Polycarbonate.",Eyeglasses,Ray-Ban,1156,4.3,Gold,Polycarbonate
+P0179,"Lenskart Air Modern Computer Glasses","Perfect for gaming. These glasses feature shock resistance and a Modern frame.",Computer Glasses,Lenskart Air,8892,3.0,Blue,Ultem
+P0180,"John Jacobs Premium Zero Power Wayfarers","Perfect for coding. These glasses feature yellow tint and a Premium frame.",Computer Glasses,John Jacobs,1698,4.3,Gunmetal,Stainless Steel
+P0181,"Johnson & Johnson Classic Daily Disposables","Breathable lenses perfect for daily wear. Keeps eyes hydrated all day.",Contact Lenses,Johnson & Johnson,7838,3.1,Gunmetal,TR90
+P0182,"Johnson & Johnson Flexible Colored Lenses","Flexible contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,2956,3.2,Transparent,Titanium
+P0183,"Lenskart Air Premium Gaming Glasses","Work comfortably for hours with these gaming glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,9665,3.7,Black,Acetate
+P0184,"Lenskart Air Premium Computer Glasses","Perfect for gaming. These glasses feature yellow tint and a Premium frame.",Computer Glasses,Lenskart Air,3061,4.4,Gunmetal,Stainless Steel
+P0185,"Oakley Modern Wayfarers","Make a statement with these Modern Oakley sunglasses. Ideal for fashion statements.",Sunglasses,Oakley,5158,3.9,Tortoise,Metal
+P0186,"Fossil Stylish Wayfarers","Protect your eyes in style with these Stylish wayfarers. Features UV400 protection.",Sunglasses,Fossil,4727,3.8,Gold,Polycarbonate
+P0187,"Fossil Flexible Round Sunglasses","Protect your eyes in style with these Flexible round sunglasses. Features UV400 protection.",Sunglasses,Fossil,6006,4.4,Gold,Stainless Steel
+P0188,"Fossil Flexible Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Flexible finish. Perfect for sunny days and driving.",Sunglasses,Fossil,8656,3.7,Silver,Polycarbonate
+P0189,"Fossil Premium Rectangular Shades","Make a statement with these Premium Fossil sunglasses. Ideal for beach vacations.",Sunglasses,Fossil,9603,4.8,Rose Gold,Ultem
+P0190,"Fossil Trendy Round Sunglasses","Protect your eyes in style with these Trendy round sunglasses. Features UV400 protection.",Sunglasses,Fossil,9822,3.2,Rose Gold,Acetate
+P0191,"Vincent Chase Flexible Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,5479,4.1,Rose Gold,Stainless Steel
+P0192,"Titan Modern Cat-Eye Frames","Minimalist cat-eye frames crafted from Polycarbonate. Designed for fashion styling.",Eyeglasses,Titan,4732,3.9,Rose Gold,Polycarbonate
+P0193,"Alcon Lightweight Toric Lenses","Lightweight contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Alcon,2128,4.7,Rose Gold,Ultem
+P0194,"Vincent Chase Lightweight Rectangular Shades","Lightweight shades designed for outdoor sports. Comes with polarized lenses.",Sunglasses,Vincent Chase,8924,4.9,Tortoise,TR90
+P0195,"Vincent Chase Retro Computer Glasses","Block harmful blue light with these Retro computer glasses. Reduces eye strain.",Computer Glasses,Vincent Chase,8782,4.7,Gunmetal,Titanium
+P0196,"Alcon Stylish Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. high water content.",Contact Lenses,Alcon,9443,3.1,Black,Acetate
+P0197,"Lenskart Air Classic Zero Power Wayfarers","Perfect for late-night work. These glasses feature shock resistance and a Classic frame.",Computer Glasses,Lenskart Air,2540,3.1,Gold,Acetate
+P0198,"Johnson & Johnson Classic Toric Lenses","Breathable lenses perfect for occasional use. Keeps eyes hydrated all day.",Contact Lenses,Johnson & Johnson,2207,3.1,Gunmetal,Ultem
+P0199,"John Jacobs Trendy Round Frames","Minimalist round frames crafted from Titanium. Designed for daily office wear.",Eyeglasses,John Jacobs,7463,4.7,Silver,Titanium
+P0200,"John Jacobs Premium Computer Glasses","Perfect for gaming. These glasses feature shock resistance and a Premium frame.",Computer Glasses,John Jacobs,9528,4.2,Brown,Metal
+P0201,"John Jacobs Stylish Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,4763,3.8,Silver,TR90
+P0202,"Fossil Modern Round Sunglasses","Protect your eyes in style with these Modern round sunglasses. Features UV400 protection.",Sunglasses,Fossil,6683,4.8,Black,Titanium
+P0203,"Bausch & Lomb Trendy Daily Disposables","Daily disposable daily disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Bausch & Lomb,3673,3.5,Gunmetal,Polycarbonate
+P0204,"Oakley Stylish Cat-Eye Sunglasses","Protect your eyes in style with these Stylish cat-eye sunglasses. Features UV400 protection.",Sunglasses,Oakley,2063,4.3,Gunmetal,TR90
+P0205,"Ray-Ban Durable Half-Rim Frames","Minimalist half-rim frames crafted from Acetate. Designed for reading.",Eyeglasses,Ray-Ban,5155,4.6,Gold,Acetate
+P0206,"Lenskart Blu Stylish Computer Glasses","Block harmful blue light with these Stylish computer glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,2224,3.7,Brown,Polycarbonate
+P0207,"Ray-Ban Flexible Geometric Glasses","Flexible frames that fit perfectly. Great for daily office wear.",Eyeglasses,Ray-Ban,8624,4.5,Black,Ultem
+P0208,"Ray-Ban Lightweight Rectangular Glasses","Lightweight frames that fit perfectly. Great for screen work.",Eyeglasses,Ray-Ban,5055,4.7,Tortoise,TR90
+P0209,"John Jacobs Flexible Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,8227,4.3,Blue,Metal
+P0210,"Vincent Chase Modern Half-Rim Frames","Sophisticated half-rim frames for a professional look. Features hypoallergenic material.",Eyeglasses,Vincent Chase,3594,4.5,Transparent,Metal
+P0211,"John Jacobs Lightweight Half-Rim Frames","Experience all-day comfort with these Lightweight half-rim frames. Made from lightweight Acetate.",Eyeglasses,John Jacobs,1587,3.9,Rose Gold,Acetate
+P0212,"Vogue Matte Aviators","Protect your eyes in style with these Matte aviators. Features UV400 protection.",Sunglasses,Vogue,645,4.6,Grey,Stainless Steel
+P0213,"Vogue Stylish Aviators","Stylish shades designed for driving. Comes with polarized lenses.",Sunglasses,Vogue,1423,4.2,Black,Metal
+P0214,"Oakley Retro Rectangular Shades","Classic rectangular shades with a Retro finish. Perfect for sunny days and driving.",Sunglasses,Oakley,9118,3.9,Brown,Polycarbonate
+P0215,"Johnson & Johnson Retro Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Johnson & Johnson,7381,3.6,Gunmetal,Ultem
+P0216,"Vincent Chase Stylish Aviators","Make a statement with these Stylish Vincent Chase sunglasses. Ideal for outdoor sports.",Sunglasses,Vincent Chase,8852,3.5,Grey,TR90
+P0217,"Lenskart Blu Retro Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,3733,4.9,Silver,Acetate
+P0218,"Aqualens Classic Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,Aqualens,6638,3.3,Gunmetal,Stainless Steel
+P0219,"Lenskart Blu Stylish Computer Glasses","Block harmful blue light with these Stylish computer glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,1412,4.6,Gunmetal,TR90
+P0220,"John Jacobs Modern Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,John Jacobs,8300,4.7,Silver,Polycarbonate
+P0221,"Lenskart Air Modern Computer Glasses","Block harmful blue light with these Modern computer glasses. Reduces eye strain.",Computer Glasses,Lenskart Air,5546,4.4,Gunmetal,Metal
+P0222,"Ray-Ban Durable Geometric Glasses","Sophisticated geometric glasses for a professional look. Features hypoallergenic material.",Eyeglasses,Ray-Ban,1554,4.4,Tortoise,Stainless Steel
+P0223,"Lenskart Blu Trendy Zero Power Wayfarers","Perfect for late-night work. These glasses feature anti-glare coating and a Trendy frame.",Computer Glasses,Lenskart Blu,6313,4.5,Gold,TR90
+P0224,"Fossil Stylish Wayfarers","Stylish shades designed for outdoor sports. Comes with polarized lenses.",Sunglasses,Fossil,3992,3.1,Blue,Ultem
+P0225,"Lenskart Air Lightweight Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,4009,4.6,Black,Titanium
+P0226,"Oakley Premium Cat-Eye Sunglasses","Make a statement with these Premium Oakley sunglasses. Ideal for outdoor sports.",Sunglasses,Oakley,8871,3.3,Blue,Ultem
+P0227,"John Jacobs Stylish Round Sunglasses","Make a statement with these Stylish John Jacobs sunglasses. Ideal for fashion statements.",Sunglasses,John Jacobs,6740,3.4,Grey,Metal
+P0228,"CooperVision Premium Monthly Disposables","Daily disposable monthly disposables for maximum hygiene and comfort. oxygen permeability.",Contact Lenses,CooperVision,1388,3.8,Blue,Acetate
+P0229,"John Jacobs Durable Aviators","Durable shades designed for driving. Comes with polarized lenses.",Sunglasses,John Jacobs,1821,3.7,Gunmetal,Acetate
+P0230,"Bausch & Lomb Retro Toric Lenses","Daily disposable toric lenses for maximum hygiene and comfort. UV block.",Contact Lenses,Bausch & Lomb,2040,3.3,Tortoise,Polycarbonate
+P0231,"Lenskart Air Durable Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,2476,4.5,Rose Gold,Titanium
+P0232,"Ray-Ban Trendy Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Trendy finish. Perfect for sunny days and driving.",Sunglasses,Ray-Ban,6896,3.8,Transparent,Ultem
+P0233,"John Jacobs Lightweight Cat-Eye Frames","Sophisticated cat-eye frames for a professional look. Features adjustable nose pads.",Eyeglasses,John Jacobs,9186,3.3,Grey,Ultem
+P0234,"Lenskart Air Durable Zero Power Wayfarers","Block harmful blue light with these Durable zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Air,7221,3.4,Transparent,Titanium
+P0235,"Lenskart Blu Stylish Zero Power Wayfarers","Perfect for coding. These glasses feature shock resistance and a Stylish frame.",Computer Glasses,Lenskart Blu,684,3.5,Blue,Ultem
+P0236,"Aqualens Lightweight Toric Lenses","Lightweight contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Aqualens,5249,3.2,Silver,Metal
+P0237,"Lenskart Blu Modern Gaming Glasses","Block harmful blue light with these Modern gaming glasses. Reduces eye strain.",Computer Glasses,Lenskart Blu,2296,3.9,Black,Stainless Steel
+P0238,"Aqualens Retro Toric Lenses","Breathable lenses perfect for daily wear. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,4281,4.3,Silver,TR90
+P0239,"Oakley Matte Clubmasters","Classic clubmasters with a Matte finish. Perfect for sunny days and driving.",Sunglasses,Oakley,4223,4.0,Grey,Polycarbonate
+P0240,"Lenskart Air Trendy Computer Glasses","Perfect for coding. These glasses feature yellow tint and a Trendy frame.",Computer Glasses,Lenskart Air,4488,4.0,Brown,Titanium
+P0241,"Fastrack Stylish Cat-Eye Frames","Stylish frames that fit perfectly. Great for daily office wear.",Eyeglasses,Fastrack,2847,4.9,Tortoise,TR90
+P0242,"John Jacobs Durable Blue Cut Aviators","Perfect for gaming. These glasses feature blue light filter and a Durable frame.",Computer Glasses,John Jacobs,5258,3.1,Blue,Stainless Steel
+P0243,"Lenskart Blu Modern Gaming Glasses","Perfect for coding. These glasses feature blue light filter and a Modern frame.",Computer Glasses,Lenskart Blu,949,3.2,Grey,Polycarbonate
+P0244,"Bausch & Lomb Matte Colored Lenses","Matte contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Bausch & Lomb,755,4.8,Silver,Acetate
+P0245,"Fossil Matte Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Matte finish. Perfect for sunny days and driving.",Sunglasses,Fossil,3194,5.0,Black,Metal
+P0246,"Fastrack Premium Rimless Glasses","Minimalist rimless glasses crafted from Metal. Designed for fashion styling.",Eyeglasses,Fastrack,5841,3.2,Gunmetal,Metal
+P0247,"Lenskart Blu Classic Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,5701,3.2,Gunmetal,Ultem
+P0248,"Lenskart Blu Trendy Blue Cut Aviators","Work comfortably for hours with these blue cut aviators. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,6123,3.0,Brown,TR90
+P0249,"John Jacobs Lightweight Cat-Eye Frames","Experience all-day comfort with these Lightweight cat-eye frames. Made from lightweight Acetate.",Eyeglasses,John Jacobs,4091,3.9,Brown,Acetate
+P0250,"John Jacobs Matte Gaming Glasses","Perfect for coding. These glasses feature shock resistance and a Matte frame.",Computer Glasses,John Jacobs,2591,5.0,Transparent,Acetate
+P0251,"Ray-Ban Lightweight Cat-Eye Frames","Sophisticated cat-eye frames for a professional look. Features adjustable nose pads.",Eyeglasses,Ray-Ban,2386,4.1,Grey,Titanium
+P0252,"Ray-Ban Flexible Sports Sunglasses","Flexible shades designed for outdoor sports. Comes with polarized lenses.",Sunglasses,Ray-Ban,8073,3.8,Gunmetal,Polycarbonate
+P0253,"Lenskart Air Lightweight Half-Rim Frames","Sophisticated half-rim frames for a professional look. Features flexible hinges.",Eyeglasses,Lenskart Air,9686,3.4,Transparent,Polycarbonate
+P0254,"Fastrack Matte Rectangular Glasses","Minimalist rectangular glasses crafted from Ultem. Designed for fashion styling.",Eyeglasses,Fastrack,7144,3.9,Gunmetal,Ultem
+P0255,"CooperVision Flexible Monthly Disposables","Flexible contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,CooperVision,2984,3.1,Grey,Acetate
+P0256,"Vincent Chase Classic Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Vincent Chase,1310,4.9,Silver,Titanium
+P0257,"Fossil Trendy Sports Sunglasses","Trendy shades designed for driving. Comes with polarized lenses.",Sunglasses,Fossil,3542,3.9,Grey,Stainless Steel
+P0258,"Vincent Chase Trendy Zero Power Wayfarers","Perfect for coding. These glasses feature anti-glare coating and a Trendy frame.",Computer Glasses,Vincent Chase,8538,4.9,Rose Gold,Ultem
+P0259,"Lenskart Air Modern Cat-Eye Frames","Experience all-day comfort with these Modern cat-eye frames. Made from lightweight Metal.",Eyeglasses,Lenskart Air,8446,3.4,Black,Metal
+P0260,"Vincent Chase Flexible Zero Power Wayfarers","Perfect for coding. These glasses feature anti-glare coating and a Flexible frame.",Computer Glasses,Vincent Chase,7257,4.0,Grey,Polycarbonate
+P0261,"Johnson & Johnson Lightweight Daily Disposables","Lightweight contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,3596,4.1,Tortoise,Metal
+P0262,"Vincent Chase Lightweight Clubmasters","Lightweight shades designed for fashion statements. Comes with polarized lenses.",Sunglasses,Vincent Chase,739,4.7,Gunmetal,Acetate
+P0263,"John Jacobs Durable Clubmasters","Durable shades designed for driving. Comes with polarized lenses.",Sunglasses,John Jacobs,5029,4.6,Transparent,Acetate
+P0264,"Lenskart Air Retro Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,9144,4.3,Tortoise,Polycarbonate
+P0265,"Vincent Chase Durable Computer Glasses","Block harmful blue light with these Durable computer glasses. Reduces eye strain.",Computer Glasses,Vincent Chase,7864,4.4,Gunmetal,Titanium
+P0266,"CooperVision Lightweight Colored Lenses","Daily disposable colored lenses for maximum hygiene and comfort. UV block.",Contact Lenses,CooperVision,3576,4.9,Gold,Metal
+P0267,"John Jacobs Classic Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Classic finish. Perfect for sunny days and driving.",Sunglasses,John Jacobs,5880,4.3,Brown,Polycarbonate
+P0268,"Titan Classic Round Frames","Minimalist round frames crafted from Polycarbonate. Designed for screen work.",Eyeglasses,Titan,3917,3.1,Gunmetal,Polycarbonate
+P0269,"Titan Retro Round Frames","Sophisticated round frames for a professional look. Features hypoallergenic material.",Eyeglasses,Titan,9106,4.7,Brown,Metal
+P0270,"Vincent Chase Retro Rimless Glasses","Retro frames that fit perfectly. Great for daily office wear.",Eyeglasses,Vincent Chase,4791,4.8,Blue,TR90
+P0271,"Titan Retro Round Frames","Experience all-day comfort with these Retro round frames. Made from lightweight Acetate.",Eyeglasses,Titan,6570,4.0,Blue,Acetate
+P0272,"Vogue Matte Clubmasters","Matte shades designed for beach vacations. Comes with polarized lenses.",Sunglasses,Vogue,1588,3.3,Gunmetal,Ultem
+P0273,"Johnson & Johnson Classic Monthly Disposables","Classic contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Johnson & Johnson,9615,4.1,Grey,Ultem
+P0274,"Titan Durable Geometric Glasses","Experience all-day comfort with these Durable geometric glasses. Made from lightweight Ultem.",Eyeglasses,Titan,1851,4.5,Gold,Ultem
+P0275,"John Jacobs Matte Computer Glasses","Perfect for late-night work. These glasses feature blue light filter and a Matte frame.",Computer Glasses,John Jacobs,3500,3.3,Blue,Titanium
+P0276,"Lenskart Blu Durable Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,3328,4.6,Silver,Acetate
+P0277,"Aqualens Matte Monthly Disposables","Breathable lenses perfect for vision correction. Keeps eyes hydrated all day.",Contact Lenses,Aqualens,6229,3.3,Gunmetal,Titanium
+P0278,"Lenskart Air Retro Zero Power Wayfarers","Work comfortably for hours with these zero power wayfarers. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Air,7505,4.0,Transparent,Polycarbonate
+P0279,"Lenskart Blu Stylish Computer Glasses","Perfect for gaming. These glasses feature shock resistance and a Stylish frame.",Computer Glasses,Lenskart Blu,7537,5.0,Silver,TR90
+P0280,"Lenskart Blu Matte Blue Cut Aviators","Block harmful blue light with these Matte blue cut aviators. Reduces eye strain.",Computer Glasses,Lenskart Blu,3746,4.7,Silver,Polycarbonate
+P0281,"Fastrack Classic Cat-Eye Frames","Experience all-day comfort with these Classic cat-eye frames. Made from lightweight Ultem.",Eyeglasses,Fastrack,8832,4.6,Grey,Ultem
+P0282,"Vincent Chase Matte Round Sunglasses","Classic round sunglasses with a Matte finish. Perfect for sunny days and driving.",Sunglasses,Vincent Chase,7305,3.4,Grey,Titanium
+P0283,"Lenskart Air Stylish Rectangular Glasses","Experience all-day comfort with these Stylish rectangular glasses. Made from lightweight Polycarbonate.",Eyeglasses,Lenskart Air,2786,4.7,Grey,Polycarbonate
+P0284,"Oakley Matte Rectangular Shades","Make a statement with these Matte Oakley sunglasses. Ideal for fashion statements.",Sunglasses,Oakley,7635,4.2,Tortoise,Titanium
+P0285,"CooperVision Retro Monthly Disposables","Retro contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,CooperVision,5018,3.8,Grey,Titanium
+P0286,"Lenskart Air Stylish Rectangular Glasses","Stylish frames that fit perfectly. Great for reading.",Eyeglasses,Lenskart Air,9482,3.0,Gunmetal,TR90
+P0287,"Vincent Chase Durable Rectangular Glasses","Minimalist rectangular glasses crafted from Titanium. Designed for screen work.",Eyeglasses,Vincent Chase,5026,3.8,Black,Titanium
+P0288,"Oakley Modern Cat-Eye Sunglasses","Make a statement with these Modern Oakley sunglasses. Ideal for fashion statements.",Sunglasses,Oakley,1191,4.1,Gunmetal,Metal
+P0289,"Bausch & Lomb Classic Colored Lenses","Breathable lenses perfect for daily wear. Keeps eyes hydrated all day.",Contact Lenses,Bausch & Lomb,6446,3.5,Transparent,TR90
+P0290,"Oakley Lightweight Cat-Eye Sunglasses","Classic cat-eye sunglasses with a Lightweight finish. Perfect for sunny days and driving.",Sunglasses,Oakley,5268,3.3,Rose Gold,Stainless Steel
+P0291,"Aqualens Modern Daily Disposables","Modern contact lenses with UV blocking. Ideal for active lifestyles.",Contact Lenses,Aqualens,5141,3.6,Blue,Stainless Steel
+P0292,"Lenskart Air Modern Zero Power Wayfarers","Block harmful blue light with these Modern zero power wayfarers. Reduces eye strain.",Computer Glasses,Lenskart Air,9279,3.6,Gunmetal,Polycarbonate
+P0293,"Ray-Ban Trendy Cat-Eye Sunglasses","Trendy shades designed for outdoor sports. Comes with polarized lenses.",Sunglasses,Ray-Ban,9167,3.3,Gunmetal,Acetate
+P0294,"Johnson & Johnson Lightweight Monthly Disposables","Breathable lenses perfect for occasional use. Keeps eyes hydrated all day.",Contact Lenses,Johnson & Johnson,9179,4.3,Gunmetal,Metal
+P0295,"Vogue Stylish Wayfarers","Classic wayfarers with a Stylish finish. Perfect for sunny days and driving.",Sunglasses,Vogue,3108,4.2,Tortoise,Titanium
+P0296,"Vincent Chase Classic Aviators","Protect your eyes in style with these Classic aviators. Features UV400 protection.",Sunglasses,Vincent Chase,9622,3.3,Grey,Ultem
+P0297,"Vincent Chase Stylish Round Sunglasses","Make a statement with these Stylish Vincent Chase sunglasses. Ideal for driving.",Sunglasses,Vincent Chase,5828,4.9,Blue,Metal
+P0298,"John Jacobs Classic Wayfarers","Protect your eyes in style with these Classic wayfarers. Features UV400 protection.",Sunglasses,John Jacobs,2427,4.4,Silver,Stainless Steel
+P0299,"Lenskart Blu Durable Computer Glasses","Work comfortably for hours with these computer glasses. Zero power, anti-glare lenses.",Computer Glasses,Lenskart Blu,2044,3.8,Rose Gold,Stainless Steel
+P0300,"CooperVision Lightweight Colored Lenses","Breathable lenses perfect for vision correction. Keeps eyes hydrated all day.",Contact Lenses,CooperVision,1885,3.4,Gold,Metal

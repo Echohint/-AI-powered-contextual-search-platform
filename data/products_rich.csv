@@ -1,0 +1,31 @@
+product_id,title,description,category,brand,price,rating,color,material
+P001,Nike Air Zoom Pegasus 40,High-performance running shoes designed for flat feet with extra arch support and breathable mesh. Great for marathons.,Footwear,Nike,4599,4.5,Black,Mesh
+P002,MacBook Air M2,Lightweight laptop perfect for coding and creative work. Features 18-hour battery life and silent fanless design.,Electronics,Apple,99900,4.8,Silver,Aluminum
+P003,Sony WH-1000XM5,Industry-leading noise cancelling headphones with Alexa built-in. Perfect for focus and travel.,Electronics,Sony,24000,4.7,Black,Plastic
+P004,Adidas Ultraboost Light,Responsive running shoes with energy return technology. Suitable for daily jogging and gym workouts.,Footwear,Adidas,5500,4.2,White,Primeknit
+P005,Dell XPS 13,Compact and powerful laptop suitable for gaming and programming. High resolution display with infinity edge.,Electronics,Dell,110000,4.3,Grey,Carbon Fiber
+P006,Levi's Men's 511 Slim Fit,Classic slim fit jeans made with stretch denim for comfort and durability. Casual wear.,Clothing,Levis,2100,4.1,Blue,Denim
+P007,Samsung Galaxy S24,5G smartphone with AI capabilities and high-resolution camera. fast processing for gaming.,Electronics,Samsung,79999,4.6,Black,Glass
+P008,Puma Men's T-Shirt,Cotton crew neck t-shirt with moisture-wicking fabric. Ideal for summer and sports.,Clothing,Puma,899,4.0,Red,Cotton
+P009,Asus ROG Zephyrus,High-performance gaming laptop with RTX 4060. Handles heavy rendering and AAA games easily.,Electronics,Asus,145000,4.6,Black,Metal
+P010,Orthopedic Walking Shoes,Specialized footwear for plantar fasciitis and flat feet. Maximum cushioning and support.,Footwear,OrthoWalk,3500,4.4,Grey,Synthetic
+P011,Vincent Chase Polarized Aviator,Classic gold aviator sunglasses with green polarized lenses. 100% UV Protection.,Sunglasses,Vincent Chase,1499,4.5,Gold,Metal
+P012,John Jacobs Titanium Rimless,Feather-light rimless eyeglasses for a minimalist professional look. Titanium frame.,Eyeglasses,John Jacobs,3500,4.7,Silver,Titanium
+P013,Lenskart Air Blue Light Blocker,Transparent square frames with chaotic anti-glare lenses. Ideal for computer use.,Computer Glasses,Lenskart Air,2000,4.6,Transparent,TR90
+P014,Aquacolor Daily Disposables,Pack of 30 daily disposable contact lenses. Hyaluronic acid for moisture.,Contact Lenses,Aquacolor,1200,4.3,Clear,Hydrogel
+P015,Ray-Ban Wayfarer Classic,Iconic black wayfarer sunglasses with crystal green lenses. Timeless style.,Sunglasses,Ray-Ban,8500,4.8,Black,Acetate
+P016,Lenskart Blu Round Matte,Trendy round glasses with matte black finish and zero power blue cut lenses.,Eyeglasses,Lenskart Blu,1199,4.4,Black,Stainless Steel
+P017,Hooper Kids Flexible Frame,Unbreakable blue flexible glasses for active kids. Safe and durable.,Kids Eyeglasses,Hooper,999,4.5,Blue,Silicon
+P018,Oakley Sport Sunglasses,Aerodynamic sports sunglasses with PRIZM lenses for cycling and cricket.,Sunglasses,Oakley,6000,4.7,Red,O-Matter
+P019,Cat Eye Gold Rim,Elegant cat-eye glasses with gold rim for women. Perfect party wear.,Eyeglasses,Vincent Chase,1599,4.4,Gold,Metal
+P020,Photochromic Reading Glasses,Reading glasses that turn dark in sunlight. Transition lenses +2.00 power.,Reading Glasses,Lenskart,1800,4.2,Brown,Acetate
+P021,Gunmetal Rectangular Half-Rim,Professional half-rim frames suitable for office wear. Sleek design.,Eyeglasses,John Jacobs,2500,4.5,Gunmetal,Steel
+P022,Oversized Square Sunglasses,Bollywood style oversized sunglasses for complete sun protection.,Sunglasses,Vincent Chase,1999,4.3,Black,Acetate
+P023,Toric Contact Lenses for Astigmatism,Monthly disposable toric lenses correcting cylindrical power.,Contact Lenses,Bausch & Lomb,1600,4.4,Clear,Silicone Hydrogel
+P024,Hexagonal Wire Frames,Unique hexagonal geometric frames in rose gold. Very trendy.,Eyeglasses,Lenskart Air,2200,4.6,Rose Gold,Metal
+P025,Clip-on Magnetic Sunglasses,Eyeglasses with a magnetic clip-on sun shade. 2-in-1 utility.,Eyeglasses,Lenskart,2500,4.5,Black,Ultem
+P026,Transparent Wayfarer,Clear frame wayfarers for a modern, geek-chic look.,Eyeglasses,Vincent Chase,1299,4.3,Transparent,Acetate
+P027,Sports Goggles with Strap,Protective sports eyewear with head strap for football/basketball.,Sports Glasses,Hooper,1500,4.4,Black,Polycarbonate
+P028,Premium Horn Rimmed Glasses,Vintage style horn-rimmed glasses. Intellectual and classy.,Eyeglasses,John Jacobs,4000,4.6,Tortoise,Acetate
+P029,Colored Contact Lenses - Hazel,Zero power colored lenses in Hazel for cosmetic use.,Contact Lenses,Aquacolor,800,4.2,Hazel,Hydrogel
+P030,Anti-Fog Safety Glasses,Protective glasses with anti-fog coating for lab or industrial work.,Safety Glasses,Lenskart,500,4.1,Clear,Polycarbonate

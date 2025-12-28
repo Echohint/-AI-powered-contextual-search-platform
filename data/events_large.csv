@@ -1,0 +1,1001 @@
+event_id,user_id,product_id,event_type,query,timestamp,dwell_time_seconds
+E00000,U016,P0276,search,"stylish eyeglasses",2025-12-06T11:48:43.976Z,0
+E00001,U035,P0299,search,"gold round glasses",2025-12-18T20:22:03.272Z,0
+E00002,U021,P0294,search,"gold round glasses",2025-12-18T03:07:44.176Z,0
+E00003,U092,P0269,search,"gold round glasses",2025-12-19T06:52:06.096Z,0
+E00004,U096,P0121,click,"contact lenses for dry eyes",2025-12-26T08:47:37.097Z,115
+E00005,U034,P0071,search,"running sunglasses",2025-12-07T09:46:28.309Z,0
+E00006,U016,P0147,search,"gaming glasses",2025-12-19T16:57:15.181Z,0
+E00007,U059,P0281,search,"contact lenses for dry eyes",2025-12-10T19:58:49.290Z,0
+E00008,U099,P0147,search,"contact lenses for dry eyes",2025-12-17T00:12:56.297Z,0
+E00009,U039,P0094,click,"gaming glasses",2025-12-13T22:45:14.412Z,244
+E00010,U040,P0065,click,"contact lenses for dry eyes",2025-12-03T10:41:07.756Z,85
+E00011,U098,P0112,add_to_cart,"rayban aviators",2025-12-09T12:57:05.601Z,0
+E00012,U015,P0199,click,"gaming glasses",2025-12-12T04:23:49.103Z,102
+E00013,U049,P0012,click,"black rimless frames",2025-12-26T23:19:11.071Z,273
+E00014,U036,P0043,add_to_cart,"stylish eyeglasses",2025-12-07T03:58:43.503Z,0
+E00015,U033,P0278,click,"gold round glasses",2025-12-03T12:08:02.815Z,144
+E00016,U008,P0226,click,"running sunglasses",2025-12-05T09:39:22.079Z,230
+E00017,U053,P0118,add_to_cart,"rayban aviators",2025-12-19T09:25:15.195Z,0
+E00018,U065,P0130,search,"stylish eyeglasses",2025-12-01T06:41:58.356Z,0
+E00019,U066,P0100,add_to_cart,"vincent chase computer glasses",2025-12-05T09:27:55.942Z,0
+E00020,U043,P0259,purchase,"vincent chase computer glasses",2025-12-14T11:14:57.237Z,0
+E00021,U069,P0007,purchase,"vincent chase computer glasses",2025-12-13T01:56:48.891Z,0
+E00022,U043,P0016,click,"gold round glasses",2025-12-07T13:38:18.417Z,55
+E00023,U046,P0027,search,"blue light glasses for coding",2025-12-15T20:59:57.242Z,0
+E00024,U085,P0182,search,"stylish eyeglasses",2025-12-24T07:42:25.859Z,0
+E00025,U070,P0279,search,"contact lenses for dry eyes",2025-12-26T22:09:37.095Z,0
+E00026,U066,P0230,click,"blue light glasses for coding",2025-12-08T04:03:38.752Z,179
+E00027,U019,P0252,search,"rayban aviators",2025-12-24T01:13:01.520Z,0
+E00028,U062,P0283,click,"running sunglasses",2025-12-25T21:38:18.685Z,262
+E00029,U024,P0242,add_to_cart,"black rimless frames",2025-12-25T13:10:56.142Z,0
+E00030,U021,P0198,search,"sunglasses for driving",2025-12-12T09:21:44.936Z,0
+E00031,U081,P0075,search,"prescription glasses",2025-12-04T02:38:00.234Z,0
+E00032,U065,P0233,search,"prescription glasses",2025-12-06T18:42:43.682Z,0
+E00033,U036,P0031,search,"sunglasses for driving",2025-12-12T17:53:00.723Z,0
+E00034,U078,P0119,search,"black rimless frames",2025-11-30T06:50:58.772Z,0
+E00035,U064,P0267,click,"vincent chase computer glasses",2025-12-12T21:33:51.161Z,41
+E00036,U075,P0094,click,"prescription glasses",2025-12-09T12:00:09.304Z,37
+E00037,U070,P0273,add_to_cart,"running sunglasses",2025-12-14T18:30:31.620Z,0
+E00038,U022,P0084,click,"rayban aviators",2025-12-26T12:29:50.042Z,186
+E00039,U027,P0160,click,"stylish eyeglasses",2025-12-17T11:23:36.075Z,195
+E00040,U008,P0084,add_to_cart,"contact lenses for dry eyes",2025-12-01T02:47:00.405Z,0
+E00041,U047,P0274,search,"stylish eyeglasses",2025-12-18T15:43:07.476Z,0
+E00042,U075,P0192,purchase,"sunglasses for driving",2025-12-09T12:46:11.842Z,0
+E00043,U066,P0012,search,"gaming glasses",2025-12-03T11:03:39.842Z,0
+E00044,U066,P0120,click,"stylish eyeglasses",2025-12-09T21:57:05.625Z,238
+E00045,U031,P0274,click,"vincent chase computer glasses",2025-12-27T06:04:58.877Z,138
+E00046,U011,P0264,search,"prescription glasses",2025-12-25T03:37:30.764Z,0
+E00047,U082,P0108,click,"prescription glasses",2025-12-25T21:50:11.723Z,82
+E00048,U064,P0085,search,"rayban aviators",2025-12-26T01:38:05.635Z,0
+E00049,U056,P0119,search,"contact lenses for dry eyes",2025-12-09T11:10:26.784Z,0
+E00050,U100,P0250,search,"contact lenses for dry eyes",2025-11-29T08:10:30.532Z,0
+E00051,U007,P0263,search,"blue light glasses for coding",2025-12-01T04:50:57.779Z,0
+E00052,U057,P0217,search,"blue light glasses for coding",2025-12-05T04:52:43.214Z,0
+E00053,U099,P0079,add_to_cart,"running sunglasses",2025-12-18T17:34:24.411Z,0
+E00054,U017,P0050,click,"rayban aviators",2025-12-21T01:49:09.282Z,279
+E00055,U067,P0224,purchase,"blue light glasses for coding",2025-12-28T06:04:03.905Z,0
+E00056,U049,P0262,click,"contact lenses for dry eyes",2025-12-16T18:51:26.995Z,181
+E00057,U035,P0034,search,"stylish eyeglasses",2025-12-19T13:19:06.065Z,0
+E00058,U046,P0067,search,"stylish eyeglasses",2025-12-04T17:02:09.390Z,0
+E00059,U077,P0024,click,"stylish eyeglasses",2025-12-14T20:32:56.521Z,126
+E00060,U017,P0250,click,"gaming glasses",2025-12-05T05:00:17.578Z,291
+E00061,U015,P0024,click,"gold round glasses",2025-12-18T07:29:06.591Z,80
+E00062,U020,P0045,purchase,"gold round glasses",2025-11-30T14:07:39.195Z,0
+E00063,U057,P0244,search,"rayban aviators",2025-11-30T09:18:36.521Z,0
+E00064,U039,P0122,search,"gold round glasses",2025-12-24T14:41:16.109Z,0
+E00065,U037,P0165,search,"prescription glasses",2025-12-27T03:21:37.350Z,0
+E00066,U026,P0040,click,"contact lenses for dry eyes",2025-12-17T12:08:46.690Z,295
+E00067,U042,P0002,add_to_cart,"running sunglasses",2025-12-06T04:53:31.886Z,0
+E00068,U024,P0150,add_to_cart,"stylish eyeglasses",2025-12-01T20:44:23.985Z,0
+E00069,U071,P0116,add_to_cart,"rayban aviators",2025-12-06T00:01:26.553Z,0
+E00070,U067,P0050,click,"stylish eyeglasses",2025-12-01T09:58:06.202Z,244
+E00071,U030,P0224,add_to_cart,"contact lenses for dry eyes",2025-12-03T03:49:07.541Z,0
+E00072,U055,P0270,click,"vincent chase computer glasses",2025-12-07T12:42:31.335Z,272
+E00073,U045,P0168,click,"transparent frames",2025-12-26T14:01:28.784Z,222
+E00074,U023,P0280,click,"transparent frames",2025-12-02T17:20:49.338Z,80
+E00075,U080,P0054,search,"black rimless frames",2025-12-15T13:05:21.588Z,0
+E00076,U094,P0137,click,"stylish eyeglasses",2025-12-28T11:51:07.440Z,95
+E00077,U085,P0041,click,"running sunglasses",2025-12-16T04:50:29.207Z,138
+E00078,U038,P0183,click,"sunglasses for driving",2025-12-23T05:58:46.112Z,185
+E00079,U030,P0200,click,"stylish eyeglasses",2025-12-24T09:08:06.693Z,200
+E00080,U057,P0205,add_to_cart,"vincent chase computer glasses",2025-12-23T17:11:57.283Z,0
+E00081,U085,P0245,add_to_cart,"vincent chase computer glasses",2025-12-12T23:05:22.217Z,0
+E00082,U053,P0179,click,"vincent chase computer glasses",2025-12-07T17:07:30.930Z,73
+E00083,U038,P0237,click,"sunglasses for driving",2025-12-13T02:16:21.731Z,114
+E00084,U065,P0133,search,"prescription glasses",2025-12-03T17:38:16.759Z,0
+E00085,U047,P0136,add_to_cart,"running sunglasses",2025-12-17T11:38:36.365Z,0
+E00086,U024,P0020,click,"running sunglasses",2025-12-26T07:05:49.028Z,231
+E00087,U030,P0158,search,"contact lenses for dry eyes",2025-12-01T08:13:26.693Z,0
+E00088,U075,P0297,add_to_cart,"gaming glasses",2025-11-30T15:30:45.817Z,0
+E00089,U051,P0203,click,"black rimless frames",2025-12-06T00:05:25.297Z,127
+E00090,U094,P0116,click,"prescription glasses",2025-12-15T01:26:20.126Z,177
+E00091,U043,P0242,click,"gold round glasses",2025-12-12T01:42:09.573Z,290
+E00092,U074,P0209,search,"rayban aviators",2025-12-14T22:54:03.124Z,0
+E00093,U013,P0074,search,"vincent chase computer glasses",2025-12-15T08:36:54.601Z,0
+E00094,U079,P0165,add_to_cart,"stylish eyeglasses",2025-12-07T10:54:24.768Z,0
+E00095,U052,P0271,search,"transparent frames",2025-12-26T21:04:41.381Z,0
+E00096,U074,P0111,click,"sunglasses for driving",2025-12-23T18:13:40.933Z,196
+E00097,U023,P0214,click,"stylish eyeglasses",2025-12-26T22:11:15.299Z,186
+E00098,U048,P0254,click,"stylish eyeglasses",2025-12-22T08:46:06.675Z,202
+E00099,U042,P0213,click,"blue light glasses for coding",2025-12-10T21:36:42.248Z,203
+E00100,U023,P0127,search,"transparent frames",2025-12-03T13:20:36.529Z,0
+E00101,U006,P0120,search,"blue light glasses for coding",2025-12-01T02:08:41.418Z,0
+E00102,U009,P0015,search,"rayban aviators",2025-12-16T08:46:38.780Z,0
+E00103,U092,P0032,click,"blue light glasses for coding",2025-12-17T20:05:29.310Z,59
+E00104,U059,P0042,add_to_cart,"gaming glasses",2025-12-19T15:47:59.141Z,0
+E00105,U028,P0177,add_to_cart,"running sunglasses",2025-12-19T13:05:34.975Z,0
+E00106,U055,P0051,click,"gaming glasses",2025-12-23T22:45:20.622Z,200
+E00107,U017,P0175,click,"contact lenses for dry eyes",2025-12-17T09:25:33.747Z,237
+E00108,U029,P0150,click,"sunglasses for driving",2025-12-03T02:42:34.315Z,127
+E00109,U019,P0002,search,"rayban aviators",2025-12-01T17:17:57.363Z,0
+E00110,U054,P0105,search,"prescription glasses",2025-12-12T14:03:17.005Z,0
+E00111,U079,P0282,search,"gold round glasses",2025-12-25T21:55:04.428Z,0
+E00112,U027,P0048,purchase,"vincent chase computer glasses",2025-12-17T19:39:26.260Z,0
+E00113,U017,P0111,click,"blue light glasses for coding",2025-12-13T14:55:30.040Z,249
+E00114,U071,P0048,search,"prescription glasses",2025-12-24T16:04:32.806Z,0
+E00115,U039,P0200,search,"black rimless frames",2025-12-26T03:39:42.540Z,0
+E00116,U031,P0146,click,"black rimless frames",2025-11-29T04:19:58.858Z,164
+E00117,U009,P0034,click,"black rimless frames",2025-12-04T00:01:32.504Z,64
+E00118,U066,P0214,search,"transparent frames",2025-12-14T14:19:14.280Z,0
+E00119,U015,P0178,click,"stylish eyeglasses",2025-12-24T06:14:46.651Z,243
+E00120,U048,P0117,click,"gaming glasses",2025-12-17T03:02:06.586Z,30
+E00121,U026,P0268,search,"contact lenses for dry eyes",2025-12-01T07:26:42.378Z,0
+E00122,U003,P0104,search,"black rimless frames",2025-12-17T03:16:24.109Z,0
+E00123,U003,P0070,click,"blue light glasses for coding",2025-12-20T23:34:55.850Z,87
+E00124,U085,P0049,search,"transparent frames",2025-12-05T16:36:18.238Z,0
+E00125,U088,P0124,search,"contact lenses for dry eyes",2025-12-16T19:10:17.276Z,0
+E00126,U041,P0016,add_to_cart,"black rimless frames",2025-12-12T17:58:41.933Z,0
+E00127,U047,P0222,click,"vincent chase computer glasses",2025-11-30T18:16:19.753Z,163
+E00128,U080,P0080,search,"sunglasses for driving",2025-12-15T17:14:14.280Z,0
+E00129,U030,P0015,search,"gaming glasses",2025-12-20T04:10:42.419Z,0
+E00130,U043,P0214,purchase,"sunglasses for driving",2025-12-19T04:07:52.938Z,0
+E00131,U057,P0130,click,"rayban aviators",2025-12-03T13:07:33.976Z,22
+E00132,U086,P0293,click,"vincent chase computer glasses",2025-12-03T23:53:58.535Z,263
+E00133,U090,P0011,add_to_cart,"blue light glasses for coding",2025-12-09T22:46:12.811Z,0
+E00134,U015,P0196,click,"gaming glasses",2025-12-24T13:55:50.852Z,105
+E00135,U002,P0239,search,"stylish eyeglasses",2025-12-02T10:05:55.589Z,0
+E00136,U029,P0011,click,"sunglasses for driving",2025-12-26T21:26:19.550Z,160
+E00137,U004,P0122,add_to_cart,"gold round glasses",2025-12-15T21:59:24.072Z,0
+E00138,U011,P0259,search,"black rimless frames",2025-12-22T21:48:39.927Z,0
+E00139,U005,P0138,click,"transparent frames",2025-12-27T19:51:34.167Z,205
+E00140,U084,P0117,search,"running sunglasses",2025-12-23T00:22:50.604Z,0
+E00141,U023,P0124,add_to_cart,"vincent chase computer glasses",2025-12-23T13:30:55.621Z,0
+E00142,U080,P0132,click,"blue light glasses for coding",2025-12-12T16:32:09.645Z,98
+E00143,U099,P0046,search,"sunglasses for driving",2025-12-05T08:43:46.443Z,0
+E00144,U084,P0098,search,"prescription glasses",2025-11-29T21:38:48.163Z,0
+E00145,U061,P0185,click,"contact lenses for dry eyes",2025-12-11T16:35:32.644Z,210
+E00146,U075,P0033,click,"stylish eyeglasses",2025-12-09T10:36:04.313Z,156
+E00147,U041,P0141,click,"prescription glasses",2025-12-12T00:13:59.093Z,152
+E00148,U082,P0108,purchase,"stylish eyeglasses",2025-12-23T02:47:40.882Z,0
+E00149,U040,P0032,search,"rayban aviators",2025-12-06T23:42:47.761Z,0
+E00150,U086,P0016,add_to_cart,"gold round glasses",2025-12-23T02:11:53.262Z,0
+E00151,U017,P0134,search,"blue light glasses for coding",2025-12-07T05:13:55.285Z,0
+E00152,U064,P0089,search,"gold round glasses",2025-12-25T17:09:14.356Z,0
+E00153,U075,P0225,search,"running sunglasses",2025-12-09T10:39:30.828Z,0
+E00154,U049,P0086,search,"prescription glasses",2025-12-26T03:43:57.651Z,0
+E00155,U066,P0028,click,"contact lenses for dry eyes",2025-11-30T04:30:12.955Z,127
+E00156,U093,P0197,add_to_cart,"blue light glasses for coding",2025-12-22T06:09:55.668Z,0
+E00157,U064,P0300,purchase,"prescription glasses",2025-12-26T01:44:42.442Z,0
+E00158,U034,P0257,click,"prescription glasses",2025-12-15T21:26:15.096Z,42
+E00159,U065,P0109,search,"prescription glasses",2025-12-10T07:28:44.050Z,0
+E00160,U098,P0248,purchase,"prescription glasses",2025-12-16T22:37:46.447Z,0
+E00161,U051,P0094,search,"prescription glasses",2025-12-28T00:22:02.565Z,0
+E00162,U052,P0268,click,"sunglasses for driving",2025-12-14T17:42:42.438Z,154
+E00163,U065,P0282,search,"rayban aviators",2025-12-02T20:54:02.986Z,0
+E00164,U042,P0047,click,"blue light glasses for coding",2025-12-19T15:16:37.582Z,220
+E00165,U016,P0023,purchase,"contact lenses for dry eyes",2025-12-17T16:03:13.856Z,0
+E00166,U098,P0040,click,"vincent chase computer glasses",2025-12-05T17:04:32.846Z,17
+E00167,U081,P0005,search,"rayban aviators",2025-12-11T12:38:55.499Z,0
+E00168,U016,P0277,click,"gold round glasses",2025-12-20T11:18:48.856Z,14
+E00169,U009,P0211,click,"stylish eyeglasses",2025-12-11T03:05:59.411Z,217
+E00170,U098,P0231,click,"prescription glasses",2025-12-22T17:22:16.806Z,125
+E00171,U025,P0197,click,"sunglasses for driving",2025-12-08T07:06:32.278Z,63
+E00172,U023,P0099,click,"contact lenses for dry eyes",2025-12-01T22:37:15.017Z,263
+E00173,U041,P0037,search,"transparent frames",2025-12-02T08:36:03.282Z,0
+E00174,U014,P0105,search,"vincent chase computer glasses",2025-12-25T00:01:21.387Z,0
+E00175,U032,P0166,search,"vincent chase computer glasses",2025-11-28T23:04:52.868Z,0
+E00176,U081,P0212,search,"gaming glasses",2025-12-11T02:42:58.255Z,0
+E00177,U065,P0171,search,"contact lenses for dry eyes",2025-12-17T10:36:10.773Z,0
+E00178,U065,P0110,add_to_cart,"transparent frames",2025-12-05T02:51:02.045Z,0
+E00179,U077,P0174,click,"rayban aviators",2025-12-19T04:22:12.891Z,212
+E00180,U037,P0162,add_to_cart,"stylish eyeglasses",2025-11-30T15:19:27.618Z,0
+E00181,U005,P0169,click,"vincent chase computer glasses",2025-12-12T19:02:56.569Z,173
+E00182,U095,P0043,click,"gold round glasses",2025-12-18T18:24:56.544Z,15
+E00183,U064,P0289,click,"gold round glasses",2025-12-28T07:48:27.978Z,107
+E00184,U094,P0095,click,"transparent frames",2025-12-20T03:26:38.303Z,243
+E00185,U094,P0221,add_to_cart,"sunglasses for driving",2025-12-18T17:40:02.329Z,0
+E00186,U072,P0264,add_to_cart,"gold round glasses",2025-12-10T23:50:28.223Z,0
+E00187,U080,P0166,add_to_cart,"gaming glasses",2025-12-17T09:37:10.844Z,0
+E00188,U020,P0178,add_to_cart,"transparent frames",2025-12-13T13:53:03.753Z,0
+E00189,U077,P0177,search,"gaming glasses",2025-12-10T20:30:02.730Z,0
+E00190,U050,P0193,search,"transparent frames",2025-12-20T17:47:25.031Z,0
+E00191,U057,P0014,search,"gaming glasses",2025-12-08T14:31:36.042Z,0
+E00192,U066,P0154,search,"gold round glasses",2025-12-16T16:07:16.442Z,0
+E00193,U011,P0290,search,"blue light glasses for coding",2025-12-20T22:43:59.562Z,0
+E00194,U041,P0096,search,"contact lenses for dry eyes",2025-12-09T00:48:53.871Z,0
+E00195,U047,P0186,click,"rayban aviators",2025-12-09T22:20:21.664Z,169
+E00196,U040,P0211,click,"prescription glasses",2025-12-16T20:56:59.201Z,83
+E00197,U082,P0208,click,"contact lenses for dry eyes",2025-12-16T03:18:25.582Z,297
+E00198,U006,P0199,search,"contact lenses for dry eyes",2025-12-06T11:12:51.250Z,0
+E00199,U049,P0100,purchase,"prescription glasses",2025-12-09T10:28:05.313Z,0
+E00200,U028,P0256,search,"vincent chase computer glasses",2025-12-17T22:48:47.228Z,0
+E00201,U043,P0174,click,"prescription glasses",2025-12-20T02:18:51.410Z,259
+E00202,U083,P0219,search,"vincent chase computer glasses",2025-12-06T23:35:19.618Z,0
+E00203,U095,P0073,search,"running sunglasses",2025-12-19T05:51:42.727Z,0
+E00204,U081,P0163,search,"gold round glasses",2025-12-17T04:05:00.762Z,0
+E00205,U060,P0023,search,"gaming glasses",2025-12-15T04:02:30.257Z,0
+E00206,U020,P0069,search,"transparent frames",2025-12-07T21:49:32.085Z,0
+E00207,U075,P0113,search,"vincent chase computer glasses",2025-12-12T11:00:49.049Z,0
+E00208,U096,P0254,click,"stylish eyeglasses",2025-12-11T01:03:30.461Z,264
+E00209,U005,P0284,search,"gaming glasses",2025-12-19T17:03:19.949Z,0
+E00210,U062,P0183,search,"gold round glasses",2025-12-25T01:25:59.481Z,0
+E00211,U030,P0250,add_to_cart,"contact lenses for dry eyes",2025-12-14T16:25:32.172Z,0
+E00212,U073,P0265,click,"sunglasses for driving",2025-12-11T12:46:13.870Z,157
+E00213,U026,P0277,add_to_cart,"rayban aviators",2025-12-08T18:32:15.589Z,0
+E00214,U026,P0053,click,"blue light glasses for coding",2025-12-02T03:13:29.127Z,246
+E00215,U030,P0046,click,"black rimless frames",2025-12-15T09:48:55.817Z,85
+E00216,U068,P0126,search,"sunglasses for driving",2025-12-18T03:54:22.118Z,0
+E00217,U083,P0126,search,"blue light glasses for coding",2025-12-08T04:48:35.854Z,0
+E00218,U075,P0147,search,"rayban aviators",2025-12-16T22:40:20.268Z,0
+E00219,U026,P0007,add_to_cart,"running sunglasses",2025-12-01T01:39:51.529Z,0
+E00220,U011,P0017,search,"blue light glasses for coding",2025-12-02T00:16:01.155Z,0
+E00221,U019,P0259,click,"vincent chase computer glasses",2025-12-08T16:16:18.118Z,266
+E00222,U021,P0055,click,"vincent chase computer glasses",2025-12-08T04:05:01.719Z,108
+E00223,U012,P0100,click,"sunglasses for driving",2025-11-28T17:00:21.190Z,266
+E00224,U025,P0269,search,"prescription glasses",2025-11-30T13:30:01.101Z,0
+E00225,U091,P0183,add_to_cart,"gaming glasses",2025-12-27T04:33:56.638Z,0
+E00226,U018,P0116,add_to_cart,"stylish eyeglasses",2025-12-25T08:01:35.802Z,0
+E00227,U084,P0280,search,"gaming glasses",2025-12-04T01:39:15.706Z,0
+E00228,U089,P0029,search,"contact lenses for dry eyes",2025-11-30T20:34:33.765Z,0
+E00229,U099,P0010,click,"gaming glasses",2025-11-30T07:52:36.886Z,142
+E00230,U034,P0064,click,"rayban aviators",2025-12-23T06:09:28.944Z,127
+E00231,U041,P0093,add_to_cart,"rayban aviators",2025-12-11T14:44:45.856Z,0
+E00232,U083,P0102,click,"transparent frames",2025-12-26T01:08:21.974Z,75
+E00233,U018,P0213,click,"blue light glasses for coding",2025-12-19T05:28:44.334Z,176
+E00234,U018,P0192,click,"prescription glasses",2025-12-24T19:20:39.849Z,261
+E00235,U069,P0225,purchase,"black rimless frames",2025-12-11T11:44:47.015Z,0
+E00236,U020,P0221,search,"gold round glasses",2025-11-30T13:02:26.484Z,0
+E00237,U020,P0236,search,"transparent frames",2025-12-05T15:12:21.585Z,0
+E00238,U031,P0126,click,"sunglasses for driving",2025-12-18T04:39:43.951Z,273
+E00239,U069,P0256,add_to_cart,"running sunglasses",2025-12-18T04:39:55.780Z,0
+E00240,U036,P0229,search,"blue light glasses for coding",2025-12-21T12:29:31.338Z,0
+E00241,U043,P0039,add_to_cart,"stylish eyeglasses",2025-12-14T19:26:30.331Z,0
+E00242,U015,P0071,search,"gold round glasses",2025-12-25T23:12:56.372Z,0
+E00243,U063,P0121,click,"blue light glasses for coding",2025-12-21T09:23:07.300Z,256
+E00244,U022,P0194,add_to_cart,"gaming glasses",2025-12-10T23:39:08.694Z,0
+E00245,U084,P0016,search,"vincent chase computer glasses",2025-12-23T16:20:11.315Z,0
+E00246,U020,P0166,click,"gold round glasses",2025-12-09T06:59:53.572Z,98
+E00247,U047,P0256,add_to_cart,"blue light glasses for coding",2025-12-20T07:08:02.168Z,0
+E00248,U096,P0223,click,"transparent frames",2025-12-27T11:27:38.500Z,274
+E00249,U007,P0137,add_to_cart,"stylish eyeglasses",2025-12-16T15:09:06.400Z,0
+E00250,U051,P0048,click,"transparent frames",2025-12-21T02:51:29.648Z,104
+E00251,U004,P0139,add_to_cart,"contact lenses for dry eyes",2025-12-22T20:21:06.474Z,0
+E00252,U016,P0073,search,"transparent frames",2025-12-17T04:50:17.333Z,0
+E00253,U057,P0021,add_to_cart,"gaming glasses",2025-12-07T09:50:40.905Z,0
+E00254,U075,P0248,search,"transparent frames",2025-12-07T16:50:28.543Z,0
+E00255,U048,P0288,search,"gold round glasses",2025-12-02T17:51:40.051Z,0
+E00256,U056,P0080,add_to_cart,"sunglasses for driving",2025-12-25T12:29:06.368Z,0
+E00257,U053,P0285,click,"vincent chase computer glasses",2025-12-25T01:08:49.450Z,188
+E00258,U091,P0259,click,"rayban aviators",2025-11-30T06:28:08.428Z,27
+E00259,U048,P0179,purchase,"sunglasses for driving",2025-12-23T08:56:25.612Z,0
+E00260,U010,P0134,add_to_cart,"black rimless frames",2025-12-05T03:23:21.240Z,0
+E00261,U032,P0259,click,"gold round glasses",2025-12-03T08:17:37.364Z,263
+E00262,U100,P0300,search,"stylish eyeglasses",2025-12-06T20:54:12.604Z,0
+E00263,U061,P0210,click,"prescription glasses",2025-12-20T02:04:29.659Z,297
+E00264,U099,P0280,purchase,"contact lenses for dry eyes",2025-12-02T22:18:37.694Z,0
+E00265,U076,P0092,search,"rayban aviators",2025-12-04T02:32:38.928Z,0
+E00266,U060,P0240,click,"gold round glasses",2025-11-30T22:50:11.186Z,161
+E00267,U088,P0246,search,"gold round glasses",2025-12-10T19:12:14.157Z,0
+E00268,U060,P0258,click,"blue light glasses for coding",2025-12-01T05:13:08.139Z,26
+E00269,U052,P0066,click,"prescription glasses",2025-12-20T06:22:21.888Z,32
+E00270,U046,P0211,search,"transparent frames",2025-11-29T15:55:33.850Z,0
+E00271,U089,P0226,purchase,"running sunglasses",2025-12-21T21:23:17.181Z,0
+E00272,U009,P0025,click,"vincent chase computer glasses",2025-12-18T09:38:43.274Z,10
+E00273,U021,P0184,click,"rayban aviators",2025-12-26T18:51:53.707Z,134
+E00274,U013,P0130,click,"gold round glasses",2025-12-02T01:21:14.541Z,222
+E00275,U038,P0112,click,"contact lenses for dry eyes",2025-12-18T04:27:01.744Z,179
+E00276,U006,P0219,purchase,"transparent frames",2025-12-07T04:17:14.491Z,0
+E00277,U069,P0266,purchase,"transparent frames",2025-11-30T20:47:27.133Z,0
+E00278,U069,P0194,click,"contact lenses for dry eyes",2025-12-02T12:25:50.702Z,200
+E00279,U088,P0030,search,"vincent chase computer glasses",2025-12-03T10:41:15.084Z,0
+E00280,U006,P0200,search,"sunglasses for driving",2025-12-18T12:43:39.098Z,0
+E00281,U069,P0096,click,"black rimless frames",2025-12-20T07:35:50.645Z,185
+E00282,U050,P0034,click,"black rimless frames",2025-12-04T15:39:31.125Z,185
+E00283,U069,P0068,click,"blue light glasses for coding",2025-12-15T02:25:44.431Z,20
+E00284,U069,P0097,search,"gaming glasses",2025-11-29T08:44:54.752Z,0
+E00285,U099,P0104,click,"black rimless frames",2025-12-12T10:54:37.205Z,257
+E00286,U066,P0283,search,"stylish eyeglasses",2025-12-26T04:26:11.788Z,0
+E00287,U085,P0049,search,"transparent frames",2025-12-27T10:55:41.851Z,0
+E00288,U029,P0168,click,"running sunglasses",2025-12-09T00:40:54.947Z,176
+E00289,U066,P0023,search,"vincent chase computer glasses",2025-12-03T13:23:12.227Z,0
+E00290,U039,P0002,click,"contact lenses for dry eyes",2025-12-06T23:50:13.384Z,91
+E00291,U100,P0061,search,"transparent frames",2025-12-18T15:29:03.434Z,0
+E00292,U079,P0122,click,"vincent chase computer glasses",2025-12-22T12:20:40.275Z,183
+E00293,U014,P0199,search,"gold round glasses",2025-12-03T03:45:33.460Z,0
+E00294,U045,P0283,click,"gold round glasses",2025-11-29T10:48:55.193Z,28
+E00295,U059,P0291,search,"stylish eyeglasses",2025-12-10T05:58:09.980Z,0
+E00296,U024,P0224,search,"gold round glasses",2025-12-11T13:09:09.120Z,0
+E00297,U059,P0296,add_to_cart,"running sunglasses",2025-11-30T10:02:37.830Z,0
+E00298,U008,P0035,click,"vincent chase computer glasses",2025-12-15T11:15:58.438Z,118
+E00299,U009,P0081,click,"transparent frames",2025-12-13T05:35:36.591Z,166
+E00300,U030,P0063,click,"contact lenses for dry eyes",2025-12-17T10:48:58.033Z,167
+E00301,U009,P0208,search,"blue light glasses for coding",2025-12-09T10:44:46.355Z,0
+E00302,U010,P0104,click,"sunglasses for driving",2025-12-05T11:46:52.605Z,186
+E00303,U070,P0035,search,"prescription glasses",2025-12-18T11:40:20.870Z,0
+E00304,U061,P0154,search,"gaming glasses",2025-12-02T04:52:20.810Z,0
+E00305,U042,P0055,add_to_cart,"rayban aviators",2025-12-07T05:27:13.197Z,0
+E00306,U050,P0130,search,"gold round glasses",2025-12-14T06:22:06.812Z,0
+E00307,U004,P0167,search,"gaming glasses",2025-12-04T18:21:26.188Z,0
+E00308,U091,P0218,click,"rayban aviators",2025-12-15T07:17:51.863Z,67
+E00309,U041,P0080,click,"transparent frames",2025-12-24T05:41:53.491Z,240
+E00310,U004,P0162,search,"black rimless frames",2025-12-11T11:58:07.147Z,0
+E00311,U039,P0074,click,"vincent chase computer glasses",2025-12-08T20:42:04.072Z,265
+E00312,U095,P0027,click,"sunglasses for driving",2025-11-30T07:52:33.525Z,25
+E00313,U046,P0198,click,"gaming glasses",2025-12-04T13:40:08.270Z,206
+E00314,U083,P0204,click,"gold round glasses",2025-12-09T00:47:29.592Z,134
+E00315,U008,P0217,add_to_cart,"rayban aviators",2025-12-28T13:08:56.847Z,0
+E00316,U091,P0002,click,"running sunglasses",2025-12-16T14:44:42.399Z,219
+E00317,U078,P0200,click,"sunglasses for driving",2025-12-19T14:28:50.962Z,113
+E00318,U012,P0287,click,"running sunglasses",2025-11-28T17:43:20.990Z,53
+E00319,U047,P0016,search,"running sunglasses",2025-12-11T01:29:00.792Z,0
+E00320,U054,P0188,click,"contact lenses for dry eyes",2025-11-29T11:17:34.058Z,169
+E00321,U085,P0258,click,"prescription glasses",2025-12-06T09:40:35.814Z,106
+E00322,U090,P0266,search,"prescription glasses",2025-12-13T02:48:03.765Z,0
+E00323,U027,P0258,click,"transparent frames",2025-12-17T20:57:07.188Z,242
+E00324,U029,P0242,search,"running sunglasses",2025-11-30T04:45:59.965Z,0
+E00325,U069,P0002,search,"gold round glasses",2025-12-08T20:10:38.855Z,0
+E00326,U091,P0220,click,"running sunglasses",2025-12-13T16:54:37.304Z,228
+E00327,U047,P0204,click,"running sunglasses",2025-12-03T17:14:07.615Z,220
+E00328,U042,P0097,add_to_cart,"gold round glasses",2025-12-03T16:16:47.777Z,0
+E00329,U004,P0015,search,"gaming glasses",2025-12-18T06:28:23.537Z,0
+E00330,U096,P0104,click,"rayban aviators",2025-12-25T00:44:26.352Z,59
+E00331,U092,P0008,search,"contact lenses for dry eyes",2025-12-10T14:41:18.724Z,0
+E00332,U048,P0090,click,"blue light glasses for coding",2025-12-10T00:57:08.502Z,180
+E00333,U087,P0089,click,"gold round glasses",2025-12-04T14:02:22.795Z,40
+E00334,U086,P0014,click,"sunglasses for driving",2025-11-30T13:50:45.977Z,234
+E00335,U068,P0173,search,"contact lenses for dry eyes",2025-12-24T07:59:56.093Z,0
+E00336,U035,P0222,search,"rayban aviators",2025-12-07T19:50:52.768Z,0
+E00337,U019,P0295,click,"rayban aviators",2025-12-01T23:15:36.162Z,244
+E00338,U080,P0035,click,"sunglasses for driving",2025-12-22T02:15:49.499Z,133
+E00339,U022,P0011,search,"gaming glasses",2025-12-06T05:28:13.758Z,0
+E00340,U017,P0209,search,"contact lenses for dry eyes",2025-12-28T07:57:52.157Z,0
+E00341,U021,P0182,click,"prescription glasses",2025-12-16T11:18:53.803Z,113
+E00342,U035,P0044,click,"black rimless frames",2025-12-28T11:17:24.633Z,279
+E00343,U086,P0002,click,"transparent frames",2025-12-22T00:24:13.272Z,46
+E00344,U043,P0232,purchase,"transparent frames",2025-12-24T05:57:21.676Z,0
+E00345,U016,P0225,click,"gold round glasses",2025-12-02T15:42:42.546Z,72
+E00346,U092,P0059,add_to_cart,"vincent chase computer glasses",2025-12-23T09:19:12.717Z,0
+E00347,U009,P0014,search,"prescription glasses",2025-12-17T08:35:15.960Z,0
+E00348,U073,P0068,click,"black rimless frames",2025-12-18T10:24:20.614Z,121
+E00349,U056,P0030,search,"prescription glasses",2025-12-28T10:23:50.993Z,0
+E00350,U035,P0224,search,"transparent frames",2025-12-24T08:51:14.185Z,0
+E00351,U094,P0262,add_to_cart,"gold round glasses",2025-12-19T13:58:59.989Z,0
+E00352,U085,P0222,search,"gold round glasses",2025-12-28T13:11:26.599Z,0
+E00353,U027,P0127,purchase,"running sunglasses",2025-12-08T15:45:35.839Z,0
+E00354,U093,P0192,search,"stylish eyeglasses",2025-12-21T05:50:08.751Z,0
+E00355,U093,P0207,click,"sunglasses for driving",2025-12-03T19:21:24.572Z,289
+E00356,U061,P0059,click,"gaming glasses",2025-12-24T19:04:23.007Z,178
+E00357,U025,P0144,purchase,"black rimless frames",2025-12-03T17:02:21.098Z,0
+E00358,U011,P0012,add_to_cart,"running sunglasses",2025-12-24T03:34:19.219Z,0
+E00359,U012,P0076,click,"blue light glasses for coding",2025-12-08T15:02:18.718Z,80
+E00360,U021,P0283,click,"running sunglasses",2025-12-15T05:07:07.255Z,258
+E00361,U034,P0222,click,"contact lenses for dry eyes",2025-12-10T02:06:56.583Z,108
+E00362,U024,P0064,add_to_cart,"transparent frames",2025-12-16T06:10:58.501Z,0
+E00363,U082,P0259,add_to_cart,"prescription glasses",2025-12-19T00:00:15.682Z,0
+E00364,U008,P0034,click,"stylish eyeglasses",2025-12-24T02:08:07.508Z,281
+E00365,U054,P0140,click,"transparent frames",2025-12-23T09:27:47.155Z,54
+E00366,U053,P0126,click,"running sunglasses",2025-12-26T16:48:51.331Z,273
+E00367,U050,P0223,click,"prescription glasses",2025-11-29T05:08:26.943Z,74
+E00368,U044,P0277,click,"black rimless frames",2025-12-20T07:42:44.865Z,107
+E00369,U062,P0258,search,"contact lenses for dry eyes",2025-12-12T00:21:06.439Z,0
+E00370,U034,P0101,search,"vincent chase computer glasses",2025-12-21T01:43:14.413Z,0
+E00371,U024,P0244,click,"black rimless frames",2025-12-21T14:32:01.429Z,279
+E00372,U020,P0172,search,"sunglasses for driving",2025-12-02T11:52:48.681Z,0
+E00373,U081,P0187,click,"gaming glasses",2025-12-02T05:47:09.547Z,274
+E00374,U071,P0133,search,"running sunglasses",2025-12-17T00:36:45.971Z,0
+E00375,U050,P0040,purchase,"running sunglasses",2025-12-18T09:54:11.572Z,0
+E00376,U080,P0155,search,"gaming glasses",2025-12-12T17:23:42.960Z,0
+E00377,U077,P0169,search,"running sunglasses",2025-12-22T18:40:35.623Z,0
+E00378,U076,P0259,search,"running sunglasses",2025-12-23T11:52:14.401Z,0
+E00379,U024,P0245,search,"contact lenses for dry eyes",2025-12-24T15:47:35.771Z,0
+E00380,U061,P0026,click,"vincent chase computer glasses",2025-12-26T14:05:37.978Z,97
+E00381,U067,P0201,click,"contact lenses for dry eyes",2025-12-08T14:17:26.750Z,165
+E00382,U041,P0025,search,"gaming glasses",2025-12-05T17:41:17.346Z,0
+E00383,U034,P0054,search,"contact lenses for dry eyes",2025-12-06T07:31:01.960Z,0
+E00384,U014,P0202,purchase,"running sunglasses",2025-12-10T02:46:36.986Z,0
+E00385,U062,P0244,click,"transparent frames",2025-12-07T12:22:14.612Z,101
+E00386,U033,P0074,click,"blue light glasses for coding",2025-12-23T12:24:08.327Z,76
+E00387,U028,P0153,search,"running sunglasses",2025-12-19T02:02:40.318Z,0
+E00388,U053,P0094,search,"gold round glasses",2025-11-29T17:28:50.996Z,0
+E00389,U048,P0081,click,"transparent frames",2025-12-15T13:14:05.234Z,157
+E00390,U069,P0133,search,"running sunglasses",2025-12-01T22:35:08.435Z,0
+E00391,U096,P0126,purchase,"sunglasses for driving",2025-12-19T01:12:21.712Z,0
+E00392,U061,P0041,click,"transparent frames",2025-12-22T19:00:44.756Z,81
+E00393,U080,P0063,purchase,"vincent chase computer glasses",2025-12-04T01:56:04.957Z,0
+E00394,U079,P0008,click,"prescription glasses",2025-12-13T11:43:33.580Z,55
+E00395,U059,P0127,click,"rayban aviators",2025-12-21T16:18:11.805Z,168
+E00396,U042,P0084,click,"running sunglasses",2025-12-21T14:59:30.653Z,161
+E00397,U072,P0233,click,"prescription glasses",2025-12-16T00:58:43.149Z,274
+E00398,U067,P0114,click,"vincent chase computer glasses",2025-12-20T04:10:46.355Z,129
+E00399,U091,P0153,click,"running sunglasses",2025-12-13T08:50:53.568Z,287
+E00400,U019,P0073,click,"transparent frames",2025-12-09T02:16:41.783Z,203
+E00401,U004,P0245,click,"gaming glasses",2025-12-27T02:39:10.172Z,98
+E00402,U084,P0130,search,"transparent frames",2025-12-11T03:58:44.349Z,0
+E00403,U087,P0099,click,"contact lenses for dry eyes",2025-11-28T21:33:49.423Z,142
+E00404,U080,P0143,add_to_cart,"stylish eyeglasses",2025-12-23T09:28:14.412Z,0
+E00405,U057,P0220,click,"transparent frames",2025-12-16T00:06:37.503Z,47
+E00406,U061,P0063,search,"stylish eyeglasses",2025-12-22T19:03:17.424Z,0
+E00407,U040,P0127,add_to_cart,"blue light glasses for coding",2025-12-20T01:29:58.648Z,0
+E00408,U031,P0275,add_to_cart,"gaming glasses",2025-12-19T01:26:34.035Z,0
+E00409,U036,P0087,search,"transparent frames",2025-12-15T18:36:53.562Z,0
+E00410,U011,P0198,add_to_cart,"blue light glasses for coding",2025-12-09T07:03:12.508Z,0
+E00411,U092,P0082,click,"gaming glasses",2025-12-20T00:58:52.715Z,239
+E00412,U025,P0281,search,"gold round glasses",2025-12-09T02:16:16.686Z,0
+E00413,U010,P0019,search,"vincent chase computer glasses",2025-12-02T00:04:43.282Z,0
+E00414,U045,P0023,search,"rayban aviators",2025-11-30T10:25:22.360Z,0
+E00415,U071,P0278,add_to_cart,"sunglasses for driving",2025-12-02T18:11:17.821Z,0
+E00416,U049,P0242,click,"rayban aviators",2025-12-07T21:36:17.689Z,295
+E00417,U007,P0115,click,"stylish eyeglasses",2025-12-19T04:55:10.537Z,285
+E00418,U010,P0072,search,"gaming glasses",2025-11-29T16:01:11.402Z,0
+E00419,U016,P0103,click,"black rimless frames",2025-12-17T21:27:24.481Z,28
+E00420,U068,P0041,search,"prescription glasses",2025-11-29T14:19:06.866Z,0
+E00421,U060,P0226,search,"blue light glasses for coding",2025-12-26T09:45:35.407Z,0
+E00422,U092,P0288,search,"blue light glasses for coding",2025-12-14T05:13:05.306Z,0
+E00423,U005,P0265,add_to_cart,"blue light glasses for coding",2025-12-05T02:14:16.626Z,0
+E00424,U004,P0176,click,"blue light glasses for coding",2025-12-09T17:11:19.789Z,233
+E00425,U087,P0232,click,"black rimless frames",2025-12-13T15:04:03.768Z,195
+E00426,U047,P0036,click,"gold round glasses",2025-12-05T19:22:03.549Z,274
+E00427,U012,P0015,search,"vincent chase computer glasses",2025-12-20T11:40:30.250Z,0
+E00428,U057,P0014,search,"black rimless frames",2025-12-03T22:32:08.093Z,0
+E00429,U067,P0287,click,"running sunglasses",2025-12-05T07:19:12.939Z,94
+E00430,U054,P0129,add_to_cart,"gold round glasses",2025-12-17T09:29:45.715Z,0
+E00431,U070,P0300,click,"blue light glasses for coding",2025-12-27T09:32:40.901Z,248
+E00432,U014,P0009,add_to_cart,"prescription glasses",2025-12-05T09:05:23.566Z,0
+E00433,U053,P0110,click,"transparent frames",2025-12-22T07:45:02.219Z,43
+E00434,U019,P0237,add_to_cart,"stylish eyeglasses",2025-12-20T15:31:31.269Z,0
+E00435,U084,P0090,search,"running sunglasses",2025-12-15T22:23:30.954Z,0
+E00436,U032,P0003,click,"stylish eyeglasses",2025-12-01T05:12:53.821Z,161
+E00437,U036,P0015,click,"running sunglasses",2025-12-14T15:17:15.423Z,119
+E00438,U052,P0198,search,"vincent chase computer glasses",2025-12-17T14:43:40.181Z,0
+E00439,U086,P0224,search,"running sunglasses",2025-12-24T09:47:46.960Z,0
+E00440,U006,P0014,click,"sunglasses for driving",2025-12-15T12:16:44.572Z,161
+E00441,U014,P0300,click,"contact lenses for dry eyes",2025-12-10T07:03:52.335Z,212
+E00442,U049,P0243,search,"vincent chase computer glasses",2025-12-07T06:25:53.932Z,0
+E00443,U036,P0085,click,"gaming glasses",2025-12-20T09:32:29.038Z,206
+E00444,U043,P0071,search,"vincent chase computer glasses",2025-12-26T09:46:54.130Z,0
+E00445,U044,P0167,add_to_cart,"gaming glasses",2025-12-10T11:24:44.511Z,0
+E00446,U072,P0272,click,"transparent frames",2025-12-19T05:20:01.070Z,149
+E00447,U004,P0129,click,"blue light glasses for coding",2025-12-03T18:03:50.936Z,38
+E00448,U054,P0281,click,"transparent frames",2025-11-29T08:35:48.762Z,263
+E00449,U094,P0298,search,"sunglasses for driving",2025-11-29T01:07:02.172Z,0
+E00450,U062,P0031,click,"rayban aviators",2025-12-09T11:22:12.186Z,163
+E00451,U018,P0270,add_to_cart,"stylish eyeglasses",2025-12-07T02:18:01.182Z,0
+E00452,U095,P0160,click,"contact lenses for dry eyes",2025-12-23T05:38:11.593Z,128
+E00453,U019,P0268,click,"transparent frames",2025-12-03T16:06:14.545Z,142
+E00454,U007,P0130,click,"prescription glasses",2025-12-01T08:20:46.188Z,177
+E00455,U006,P0094,add_to_cart,"contact lenses for dry eyes",2025-12-22T01:05:36.434Z,0
+E00456,U078,P0203,add_to_cart,"gold round glasses",2025-12-21T08:59:36.696Z,0
+E00457,U066,P0058,search,"gold round glasses",2025-12-21T07:22:28.627Z,0
+E00458,U050,P0043,click,"gold round glasses",2025-12-20T08:21:23.595Z,192
+E00459,U014,P0197,search,"running sunglasses",2025-12-14T20:49:46.578Z,0
+E00460,U069,P0248,click,"gaming glasses",2025-12-04T18:54:00.756Z,135
+E00461,U061,P0074,click,"vincent chase computer glasses",2025-12-13T16:33:25.120Z,281
+E00462,U089,P0099,search,"gaming glasses",2025-12-21T09:05:46.618Z,0
+E00463,U056,P0133,add_to_cart,"stylish eyeglasses",2025-12-16T00:13:42.548Z,0
+E00464,U023,P0276,click,"contact lenses for dry eyes",2025-12-15T04:54:28.083Z,104
+E00465,U014,P0053,search,"gaming glasses",2025-12-18T19:28:01.224Z,0
+E00466,U005,P0132,add_to_cart,"rayban aviators",2025-12-02T15:34:59.779Z,0
+E00467,U002,P0257,click,"prescription glasses",2025-12-05T23:05:42.283Z,255
+E00468,U082,P0034,click,"vincent chase computer glasses",2025-12-13T02:12:15.085Z,208
+E00469,U023,P0202,add_to_cart,"black rimless frames",2025-12-18T01:19:37.409Z,0
+E00470,U051,P0061,add_to_cart,"black rimless frames",2025-12-16T11:40:18.742Z,0
+E00471,U016,P0240,click,"contact lenses for dry eyes",2025-11-28T18:16:43.569Z,160
+E00472,U072,P0030,search,"black rimless frames",2025-12-26T15:16:09.130Z,0
+E00473,U091,P0070,search,"transparent frames",2025-12-25T11:54:07.821Z,0
+E00474,U092,P0152,click,"black rimless frames",2025-12-16T12:30:38.321Z,74
+E00475,U066,P0156,click,"gaming glasses",2025-12-20T12:52:55.912Z,137
+E00476,U090,P0069,click,"rayban aviators",2025-12-20T02:37:24.063Z,117
+E00477,U022,P0021,click,"prescription glasses",2025-12-14T12:40:29.368Z,131
+E00478,U058,P0141,search,"transparent frames",2025-12-26T00:48:39.601Z,0
+E00479,U016,P0080,add_to_cart,"contact lenses for dry eyes",2025-12-07T15:18:11.196Z,0
+E00480,U003,P0255,click,"contact lenses for dry eyes",2025-12-19T17:32:05.788Z,275
+E00481,U002,P0001,click,"gaming glasses",2025-11-30T07:01:42.512Z,166
+E00482,U050,P0065,search,"gaming glasses",2025-12-09T09:16:30.793Z,0
+E00483,U083,P0138,click,"stylish eyeglasses",2025-12-02T21:45:47.455Z,30
+E00484,U017,P0038,click,"vincent chase computer glasses",2025-12-20T08:31:08.447Z,208
+E00485,U056,P0147,click,"stylish eyeglasses",2025-12-16T04:22:31.738Z,76
+E00486,U005,P0068,search,"prescription glasses",2025-12-13T06:30:47.648Z,0
+E00487,U002,P0149,search,"prescription glasses",2025-12-07T03:46:27.648Z,0
+E00488,U037,P0134,click,"gold round glasses",2025-12-17T00:36:33.226Z,219
+E00489,U005,P0257,click,"contact lenses for dry eyes",2025-12-22T04:42:26.527Z,260
+E00490,U070,P0242,click,"contact lenses for dry eyes",2025-12-18T21:49:48.119Z,278
+E00491,U017,P0273,add_to_cart,"blue light glasses for coding",2025-12-16T10:23:16.665Z,0
+E00492,U005,P0282,add_to_cart,"prescription glasses",2025-12-17T09:58:22.945Z,0
+E00493,U011,P0233,search,"vincent chase computer glasses",2025-12-11T19:52:39.400Z,0
+E00494,U006,P0282,search,"blue light glasses for coding",2025-12-02T13:11:46.726Z,0
+E00495,U030,P0009,click,"running sunglasses",2025-12-26T12:19:33.379Z,190
+E00496,U097,P0141,search,"rayban aviators",2025-12-20T15:38:16.123Z,0
+E00497,U042,P0104,search,"sunglasses for driving",2025-12-07T22:29:16.840Z,0
+E00498,U099,P0078,search,"blue light glasses for coding",2025-12-20T02:42:22.684Z,0
+E00499,U031,P0203,search,"blue light glasses for coding",2025-12-10T17:46:37.605Z,0
+E00500,U041,P0292,search,"blue light glasses for coding",2025-12-17T16:04:53.269Z,0
+E00501,U044,P0025,click,"blue light glasses for coding",2025-12-10T13:09:41.302Z,215
+E00502,U020,P0141,add_to_cart,"vincent chase computer glasses",2025-11-28T22:40:04.184Z,0
+E00503,U025,P0246,click,"gaming glasses",2025-12-01T18:17:39.525Z,214
+E00504,U031,P0174,search,"vincent chase computer glasses",2025-12-16T04:15:59.023Z,0
+E00505,U008,P0220,add_to_cart,"rayban aviators",2025-12-22T11:02:21.418Z,0
+E00506,U015,P0012,click,"transparent frames",2025-12-22T15:57:27.708Z,62
+E00507,U027,P0146,search,"running sunglasses",2025-12-22T13:57:41.911Z,0
+E00508,U094,P0257,add_to_cart,"blue light glasses for coding",2025-12-10T13:07:42.544Z,0
+E00509,U086,P0224,add_to_cart,"sunglasses for driving",2025-12-20T13:34:23.656Z,0
+E00510,U015,P0220,search,"gold round glasses",2025-12-10T03:03:37.699Z,0
+E00511,U042,P0144,search,"gold round glasses",2025-11-28T22:07:04.718Z,0
+E00512,U033,P0237,add_to_cart,"blue light glasses for coding",2025-12-21T16:20:40.243Z,0
+E00513,U027,P0031,search,"contact lenses for dry eyes",2025-12-09T16:29:33.720Z,0
+E00514,U001,P0017,search,"stylish eyeglasses",2025-12-25T20:27:11.505Z,0
+E00515,U067,P0146,search,"rayban aviators",2025-12-09T14:52:00.834Z,0
+E00516,U007,P0235,click,"gold round glasses",2025-12-13T20:10:19.710Z,179
+E00517,U082,P0118,click,"rayban aviators",2025-12-06T15:01:54.508Z,113
+E00518,U050,P0233,add_to_cart,"prescription glasses",2025-12-04T08:50:37.485Z,0
+E00519,U043,P0071,search,"transparent frames",2025-12-08T00:32:09.779Z,0
+E00520,U037,P0098,search,"blue light glasses for coding",2025-12-19T01:46:07.693Z,0
+E00521,U014,P0207,add_to_cart,"blue light glasses for coding",2025-12-15T15:51:28.452Z,0
+E00522,U019,P0204,search,"transparent frames",2025-12-10T15:01:00.071Z,0
+E00523,U037,P0087,search,"blue light glasses for coding",2025-12-15T13:26:55.339Z,0
+E00524,U009,P0074,click,"black rimless frames",2025-12-27T01:34:57.497Z,103
+E00525,U091,P0129,purchase,"stylish eyeglasses",2025-12-15T11:10:57.834Z,0
+E00526,U023,P0281,search,"black rimless frames",2025-12-13T19:12:16.623Z,0
+E00527,U021,P0257,add_to_cart,"rayban aviators",2025-12-22T09:07:45.537Z,0
+E00528,U060,P0152,click,"transparent frames",2025-12-27T01:23:59.526Z,101
+E00529,U064,P0027,search,"running sunglasses",2025-12-22T21:59:13.218Z,0
+E00530,U035,P0078,purchase,"running sunglasses",2025-12-16T16:35:06.251Z,0
+E00531,U033,P0298,search,"prescription glasses",2025-12-17T08:53:21.835Z,0
+E00532,U075,P0050,click,"vincent chase computer glasses",2025-12-24T18:59:15.839Z,148
+E00533,U066,P0094,click,"prescription glasses",2025-12-12T14:50:09.470Z,127
+E00534,U012,P0002,click,"prescription glasses",2025-12-20T08:35:43.492Z,244
+E00535,U008,P0161,search,"blue light glasses for coding",2025-12-19T11:45:07.634Z,0
+E00536,U013,P0250,click,"gold round glasses",2025-12-09T20:13:34.113Z,88
+E00537,U011,P0011,search,"contact lenses for dry eyes",2025-12-04T22:47:17.669Z,0
+E00538,U068,P0045,add_to_cart,"gaming glasses",2025-12-16T07:39:07.208Z,0
+E00539,U014,P0038,click,"rayban aviators",2025-12-26T03:25:18.081Z,19
+E00540,U069,P0152,add_to_cart,"prescription glasses",2025-12-26T10:27:42.798Z,0
+E00541,U095,P0225,search,"prescription glasses",2025-12-08T12:41:15.270Z,0
+E00542,U080,P0089,search,"black rimless frames",2025-12-05T20:55:10.006Z,0
+E00543,U063,P0188,click,"stylish eyeglasses",2025-12-06T04:02:47.641Z,35
+E00544,U009,P0008,click,"rayban aviators",2025-11-30T13:26:12.084Z,76
+E00545,U025,P0260,click,"vincent chase computer glasses",2025-12-07T23:52:56.723Z,230
+E00546,U002,P0110,add_to_cart,"vincent chase computer glasses",2025-12-04T00:30:15.212Z,0
+E00547,U067,P0204,search,"gaming glasses",2025-12-21T03:13:55.284Z,0
+E00548,U026,P0255,search,"contact lenses for dry eyes",2025-12-10T17:09:01.616Z,0
+E00549,U040,P0069,add_to_cart,"black rimless frames",2025-11-30T18:45:07.661Z,0
+E00550,U060,P0297,search,"contact lenses for dry eyes",2025-12-06T15:07:44.868Z,0
+E00551,U020,P0066,purchase,"gaming glasses",2025-12-13T17:54:31.154Z,0
+E00552,U076,P0117,click,"prescription glasses",2025-12-08T14:01:05.681Z,12
+E00553,U086,P0057,click,"black rimless frames",2025-12-06T12:00:23.608Z,290
+E00554,U008,P0265,click,"transparent frames",2025-12-09T04:15:57.701Z,88
+E00555,U094,P0009,add_to_cart,"gaming glasses",2025-12-26T16:13:09.723Z,0
+E00556,U060,P0026,search,"contact lenses for dry eyes",2025-12-11T06:40:13.078Z,0
+E00557,U070,P0042,click,"running sunglasses",2025-11-30T10:38:05.069Z,259
+E00558,U038,P0220,search,"rayban aviators",2025-12-16T13:43:44.056Z,0
+E00559,U005,P0220,click,"stylish eyeglasses",2025-12-26T00:11:29.483Z,153
+E00560,U015,P0001,search,"prescription glasses",2025-12-23T17:44:49.211Z,0
+E00561,U025,P0094,add_to_cart,"gaming glasses",2025-12-15T22:34:39.449Z,0
+E00562,U080,P0193,search,"blue light glasses for coding",2025-12-12T20:39:15.946Z,0
+E00563,U068,P0078,click,"contact lenses for dry eyes",2025-12-12T13:21:57.421Z,226
+E00564,U094,P0021,search,"black rimless frames",2025-12-25T19:36:49.350Z,0
+E00565,U053,P0183,search,"prescription glasses",2025-12-23T04:43:02.213Z,0
+E00566,U049,P0269,add_to_cart,"stylish eyeglasses",2025-12-07T09:09:14.990Z,0
+E00567,U047,P0213,search,"transparent frames",2025-12-02T20:11:26.690Z,0
+E00568,U010,P0253,add_to_cart,"gaming glasses",2025-12-28T08:16:04.289Z,0
+E00569,U089,P0046,search,"stylish eyeglasses",2025-12-09T04:30:33.755Z,0
+E00570,U028,P0027,add_to_cart,"transparent frames",2025-12-13T13:12:00.392Z,0
+E00571,U048,P0099,search,"running sunglasses",2025-11-30T12:43:14.001Z,0
+E00572,U095,P0053,search,"prescription glasses",2025-11-29T20:57:28.592Z,0
+E00573,U062,P0154,search,"running sunglasses",2025-12-19T08:07:24.809Z,0
+E00574,U059,P0018,click,"black rimless frames",2025-11-29T19:21:22.341Z,245
+E00575,U029,P0045,search,"gaming glasses",2025-12-03T23:33:24.432Z,0
+E00576,U080,P0294,search,"contact lenses for dry eyes",2025-12-13T06:18:32.128Z,0
+E00577,U085,P0077,purchase,"prescription glasses",2025-12-24T22:43:13.204Z,0
+E00578,U028,P0154,add_to_cart,"running sunglasses",2025-12-16T19:26:09.927Z,0
+E00579,U058,P0158,search,"contact lenses for dry eyes",2025-12-27T06:20:19.663Z,0
+E00580,U087,P0036,click,"black rimless frames",2025-12-05T14:34:49.895Z,188
+E00581,U027,P0002,click,"blue light glasses for coding",2025-12-22T10:27:12.743Z,293
+E00582,U045,P0055,click,"rayban aviators",2025-12-15T18:51:42.632Z,141
+E00583,U009,P0028,search,"black rimless frames",2025-12-16T14:41:59.453Z,0
+E00584,U036,P0101,search,"blue light glasses for coding",2025-12-09T17:08:14.881Z,0
+E00585,U072,P0242,click,"black rimless frames",2025-12-07T13:26:42.831Z,233
+E00586,U070,P0182,click,"blue light glasses for coding",2025-12-21T14:16:09.707Z,164
+E00587,U049,P0063,search,"transparent frames",2025-11-30T12:26:13.738Z,0
+E00588,U035,P0034,search,"blue light glasses for coding",2025-12-14T14:18:52.807Z,0
+E00589,U100,P0042,search,"gold round glasses",2025-12-03T02:15:58.162Z,0
+E00590,U064,P0229,click,"running sunglasses",2025-12-23T06:08:55.385Z,104
+E00591,U007,P0138,click,"transparent frames",2025-11-29T05:48:33.569Z,146
+E00592,U037,P0265,add_to_cart,"stylish eyeglasses",2025-12-15T09:59:15.939Z,0
+E00593,U069,P0131,click,"blue light glasses for coding",2025-12-18T17:25:39.803Z,214
+E00594,U081,P0129,add_to_cart,"rayban aviators",2025-12-08T03:31:25.575Z,0
+E00595,U004,P0235,click,"gold round glasses",2025-12-10T00:01:43.401Z,128
+E00596,U048,P0261,search,"gold round glasses",2025-12-02T22:56:11.932Z,0
+E00597,U032,P0026,search,"rayban aviators",2025-12-03T19:32:01.751Z,0
+E00598,U043,P0202,search,"gold round glasses",2025-12-07T14:45:09.221Z,0
+E00599,U100,P0168,search,"stylish eyeglasses",2025-12-01T14:34:53.302Z,0
+E00600,U063,P0060,click,"black rimless frames",2025-12-13T07:39:31.296Z,146
+E00601,U026,P0205,add_to_cart,"rayban aviators",2025-12-24T14:07:52.003Z,0
+E00602,U065,P0159,add_to_cart,"rayban aviators",2025-12-16T18:44:30.190Z,0
+E00603,U086,P0083,click,"contact lenses for dry eyes",2025-12-10T22:02:24.857Z,59
+E00604,U004,P0069,click,"sunglasses for driving",2025-12-27T16:30:59.734Z,122
+E00605,U090,P0264,search,"prescription glasses",2025-12-07T23:13:32.139Z,0
+E00606,U094,P0075,search,"blue light glasses for coding",2025-12-05T02:48:04.784Z,0
+E00607,U088,P0119,click,"rayban aviators",2025-12-04T04:45:29.591Z,28
+E00608,U046,P0016,purchase,"rayban aviators",2025-12-11T09:29:36.761Z,0
+E00609,U073,P0220,click,"transparent frames",2025-12-06T19:07:14.688Z,193
+E00610,U018,P0171,search,"blue light glasses for coding",2025-12-28T09:30:00.270Z,0
+E00611,U052,P0015,click,"transparent frames",2025-12-09T09:53:12.104Z,247
+E00612,U089,P0097,click,"running sunglasses",2025-12-26T12:47:27.113Z,224
+E00613,U094,P0172,click,"stylish eyeglasses",2025-12-23T09:45:39.015Z,160
+E00614,U088,P0277,click,"stylish eyeglasses",2025-11-30T07:51:32.865Z,166
+E00615,U022,P0026,click,"vincent chase computer glasses",2025-12-07T20:45:32.142Z,157
+E00616,U021,P0056,add_to_cart,"gaming glasses",2025-12-03T22:14:16.090Z,0
+E00617,U075,P0027,search,"blue light glasses for coding",2025-12-27T06:03:09.932Z,0
+E00618,U087,P0155,search,"sunglasses for driving",2025-12-04T08:55:13.619Z,0
+E00619,U021,P0066,search,"gold round glasses",2025-12-09T18:27:22.263Z,0
+E00620,U057,P0173,search,"vincent chase computer glasses",2025-12-10T15:41:03.774Z,0
+E00621,U054,P0234,search,"stylish eyeglasses",2025-12-04T22:53:47.450Z,0
+E00622,U087,P0268,add_to_cart,"running sunglasses",2025-12-10T03:27:37.543Z,0
+E00623,U030,P0021,click,"stylish eyeglasses",2025-12-12T20:32:59.403Z,88
+E00624,U071,P0244,purchase,"vincent chase computer glasses",2025-12-22T14:24:13.002Z,0
+E00625,U080,P0259,click,"gold round glasses",2025-12-27T01:21:11.197Z,25
+E00626,U025,P0103,search,"vincent chase computer glasses",2025-12-25T23:07:17.150Z,0
+E00627,U005,P0120,purchase,"gold round glasses",2025-12-05T02:10:46.963Z,0
+E00628,U003,P0115,search,"rayban aviators",2025-12-12T17:40:46.493Z,0
+E00629,U051,P0206,search,"prescription glasses",2025-12-04T22:25:37.604Z,0
+E00630,U027,P0157,click,"sunglasses for driving",2025-12-04T19:53:48.413Z,214
+E00631,U032,P0107,search,"stylish eyeglasses",2025-12-08T20:11:35.962Z,0
+E00632,U012,P0229,click,"transparent frames",2025-12-16T23:31:26.403Z,276
+E00633,U019,P0242,click,"stylish eyeglasses",2025-12-18T10:17:01.764Z,257
+E00634,U078,P0276,search,"vincent chase computer glasses",2025-12-15T07:57:51.974Z,0
+E00635,U100,P0061,search,"prescription glasses",2025-11-30T02:00:29.960Z,0
+E00636,U030,P0001,add_to_cart,"contact lenses for dry eyes",2025-12-06T11:00:59.592Z,0
+E00637,U012,P0174,click,"black rimless frames",2025-12-14T20:01:29.644Z,108
+E00638,U072,P0228,click,"running sunglasses",2025-12-21T03:36:59.090Z,196
+E00639,U083,P0104,search,"rayban aviators",2025-12-02T20:54:10.556Z,0
+E00640,U057,P0096,click,"transparent frames",2025-12-12T08:29:50.553Z,191
+E00641,U025,P0114,click,"sunglasses for driving",2025-12-04T04:03:34.703Z,194
+E00642,U080,P0173,search,"prescription glasses",2025-12-06T19:32:50.544Z,0
+E00643,U025,P0010,search,"rayban aviators",2025-12-22T11:22:44.717Z,0
+E00644,U033,P0288,click,"rayban aviators",2025-12-22T07:13:50.466Z,285
+E00645,U006,P0104,search,"prescription glasses",2025-12-13T00:11:17.348Z,0
+E00646,U090,P0222,click,"vincent chase computer glasses",2025-12-02T03:52:19.635Z,146
+E00647,U060,P0287,click,"gold round glasses",2025-12-19T02:53:19.162Z,204
+E00648,U056,P0188,add_to_cart,"stylish eyeglasses",2025-12-03T10:16:49.865Z,0
+E00649,U028,P0108,search,"transparent frames",2025-12-10T20:41:19.224Z,0
+E00650,U055,P0195,search,"stylish eyeglasses",2025-12-06T22:15:18.577Z,0
+E00651,U024,P0125,click,"transparent frames",2025-12-12T02:02:58.264Z,277
+E00652,U086,P0097,add_to_cart,"rayban aviators",2025-12-17T18:19:08.383Z,0
+E00653,U035,P0221,add_to_cart,"transparent frames",2025-12-28T04:56:51.554Z,0
+E00654,U044,P0196,search,"sunglasses for driving",2025-12-05T20:13:31.695Z,0
+E00655,U021,P0026,click,"transparent frames",2025-11-30T08:42:51.789Z,15
+E00656,U059,P0091,add_to_cart,"sunglasses for driving",2025-12-05T23:24:07.005Z,0
+E00657,U080,P0024,click,"stylish eyeglasses",2025-11-30T14:50:07.017Z,97
+E00658,U032,P0223,search,"sunglasses for driving",2025-12-11T01:03:52.145Z,0
+E00659,U074,P0143,click,"sunglasses for driving",2025-12-25T13:25:47.919Z,278
+E00660,U076,P0262,search,"rayban aviators",2025-12-24T12:58:53.600Z,0
+E00661,U097,P0147,search,"blue light glasses for coding",2025-12-13T21:45:58.534Z,0
+E00662,U054,P0239,search,"sunglasses for driving",2025-11-30T10:27:03.210Z,0
+E00663,U002,P0260,search,"sunglasses for driving",2025-11-29T13:40:13.926Z,0
+E00664,U003,P0098,add_to_cart,"running sunglasses",2025-12-22T06:30:25.413Z,0
+E00665,U034,P0215,click,"blue light glasses for coding",2025-11-29T01:44:43.804Z,167
+E00666,U097,P0101,search,"gold round glasses",2025-12-12T15:48:46.555Z,0
+E00667,U095,P0115,click,"contact lenses for dry eyes",2025-11-30T09:18:23.444Z,232
+E00668,U069,P0048,click,"stylish eyeglasses",2025-12-25T11:18:36.839Z,210
+E00669,U041,P0042,click,"black rimless frames",2025-12-26T22:45:25.644Z,24
+E00670,U043,P0173,add_to_cart,"rayban aviators",2025-12-26T07:00:45.073Z,0
+E00671,U012,P0091,add_to_cart,"black rimless frames",2025-12-06T14:02:19.540Z,0
+E00672,U069,P0137,search,"gold round glasses",2025-12-07T15:28:25.512Z,0
+E00673,U034,P0069,click,"vincent chase computer glasses",2025-12-26T13:22:59.934Z,28
+E00674,U045,P0212,click,"contact lenses for dry eyes",2025-12-25T10:07:36.996Z,275
+E00675,U040,P0116,click,"transparent frames",2025-12-07T04:07:46.937Z,275
+E00676,U062,P0017,add_to_cart,"gold round glasses",2025-12-02T16:15:04.387Z,0
+E00677,U030,P0231,search,"prescription glasses",2025-12-01T15:53:58.823Z,0
+E00678,U038,P0098,click,"prescription glasses",2025-12-07T22:36:05.828Z,216
+E00679,U041,P0054,search,"stylish eyeglasses",2025-12-17T05:24:17.816Z,0
+E00680,U041,P0112,click,"transparent frames",2025-12-24T01:51:09.873Z,18
+E00681,U005,P0096,click,"gold round glasses",2025-12-24T16:24:01.907Z,216
+E00682,U005,P0207,add_to_cart,"black rimless frames",2025-12-01T05:29:47.496Z,0
+E00683,U047,P0184,click,"vincent chase computer glasses",2025-12-05T20:17:12.648Z,88
+E00684,U085,P0082,click,"rayban aviators",2025-12-12T09:41:18.719Z,94
+E00685,U048,P0032,search,"rayban aviators",2025-11-30T12:45:38.640Z,0
+E00686,U018,P0132,search,"contact lenses for dry eyes",2025-11-28T16:09:49.370Z,0
+E00687,U072,P0095,click,"prescription glasses",2025-12-24T18:28:31.948Z,289
+E00688,U084,P0012,click,"stylish eyeglasses",2025-12-13T08:58:19.858Z,123
+E00689,U010,P0296,search,"rayban aviators",2025-12-20T06:00:51.352Z,0
+E00690,U070,P0290,purchase,"gold round glasses",2025-11-29T20:45:33.534Z,0
+E00691,U084,P0266,search,"black rimless frames",2025-12-18T07:59:12.922Z,0
+E00692,U010,P0203,add_to_cart,"prescription glasses",2025-11-30T09:21:53.468Z,0
+E00693,U016,P0117,search,"transparent frames",2025-12-05T19:46:48.803Z,0
+E00694,U024,P0077,add_to_cart,"transparent frames",2025-12-08T02:12:45.401Z,0
+E00695,U014,P0299,add_to_cart,"rayban aviators",2025-12-28T04:31:20.261Z,0
+E00696,U048,P0063,click,"blue light glasses for coding",2025-12-10T05:50:56.298Z,174
+E00697,U025,P0229,click,"gold round glasses",2025-12-01T08:03:51.368Z,234
+E00698,U065,P0255,click,"running sunglasses",2025-12-28T08:37:14.204Z,28
+E00699,U096,P0215,click,"vincent chase computer glasses",2025-12-10T08:11:59.753Z,81
+E00700,U047,P0016,click,"vincent chase computer glasses",2025-12-03T23:07:39.321Z,269
+E00701,U096,P0150,add_to_cart,"stylish eyeglasses",2025-12-04T11:02:05.305Z,0
+E00702,U091,P0037,search,"stylish eyeglasses",2025-12-09T13:29:53.043Z,0
+E00703,U037,P0132,purchase,"gold round glasses",2025-12-13T01:33:16.335Z,0
+E00704,U029,P0039,search,"gaming glasses",2025-12-17T01:19:01.244Z,0
+E00705,U018,P0075,click,"transparent frames",2025-12-17T03:14:15.939Z,171
+E00706,U036,P0208,search,"vincent chase computer glasses",2025-12-10T17:27:03.383Z,0
+E00707,U061,P0081,search,"rayban aviators",2025-12-19T06:31:30.974Z,0
+E00708,U087,P0066,search,"blue light glasses for coding",2025-12-03T08:40:34.793Z,0
+E00709,U097,P0239,add_to_cart,"transparent frames",2025-11-30T10:40:50.551Z,0
+E00710,U003,P0251,search,"rayban aviators",2025-12-04T05:20:47.933Z,0
+E00711,U066,P0140,search,"rayban aviators",2025-12-16T00:28:46.811Z,0
+E00712,U018,P0140,purchase,"vincent chase computer glasses",2025-12-01T03:58:25.481Z,0
+E00713,U044,P0290,click,"rayban aviators",2025-12-03T12:15:04.896Z,86
+E00714,U063,P0237,add_to_cart,"rayban aviators",2025-12-09T07:46:52.968Z,0
+E00715,U033,P0054,search,"prescription glasses",2025-12-23T19:16:34.281Z,0
+E00716,U018,P0119,search,"sunglasses for driving",2025-11-29T15:23:54.949Z,0
+E00717,U036,P0157,click,"contact lenses for dry eyes",2025-12-04T21:19:44.546Z,270
+E00718,U075,P0268,purchase,"gaming glasses",2025-12-01T16:21:35.107Z,0
+E00719,U067,P0147,search,"vincent chase computer glasses",2025-12-20T00:16:15.901Z,0
+E00720,U035,P0178,search,"gaming glasses",2025-11-30T10:35:12.645Z,0
+E00721,U023,P0030,search,"stylish eyeglasses",2025-12-08T06:29:48.559Z,0
+E00722,U018,P0074,click,"contact lenses for dry eyes",2025-12-20T21:56:20.730Z,38
+E00723,U007,P0161,search,"transparent frames",2025-12-12T12:49:33.623Z,0
+E00724,U091,P0231,add_to_cart,"contact lenses for dry eyes",2025-12-26T12:14:05.086Z,0
+E00725,U040,P0149,click,"vincent chase computer glasses",2025-12-24T15:07:54.992Z,97
+E00726,U029,P0150,click,"transparent frames",2025-12-17T10:53:40.259Z,143
+E00727,U007,P0077,click,"gaming glasses",2025-12-06T17:02:53.264Z,133
+E00728,U019,P0263,search,"blue light glasses for coding",2025-12-08T22:01:20.058Z,0
+E00729,U098,P0028,search,"prescription glasses",2025-12-09T03:24:21.300Z,0
+E00730,U092,P0209,add_to_cart,"contact lenses for dry eyes",2025-12-03T04:10:29.181Z,0
+E00731,U043,P0273,search,"vincent chase computer glasses",2025-11-30T04:23:12.128Z,0
+E00732,U043,P0064,search,"rayban aviators",2025-12-10T10:47:26.211Z,0
+E00733,U052,P0190,add_to_cart,"rayban aviators",2025-12-16T13:59:01.260Z,0
+E00734,U034,P0039,search,"black rimless frames",2025-12-23T19:46:39.715Z,0
+E00735,U072,P0213,search,"rayban aviators",2025-12-08T06:12:23.028Z,0
+E00736,U010,P0169,click,"prescription glasses",2025-12-20T12:32:12.233Z,98
+E00737,U010,P0012,click,"running sunglasses",2025-12-02T01:45:37.449Z,73
+E00738,U016,P0219,search,"blue light glasses for coding",2025-12-25T22:18:46.556Z,0
+E00739,U001,P0112,search,"gaming glasses",2025-12-20T23:25:55.232Z,0
+E00740,U082,P0097,add_to_cart,"gaming glasses",2025-12-23T13:58:55.301Z,0
+E00741,U046,P0099,click,"gold round glasses",2025-12-27T11:22:20.609Z,147
+E00742,U041,P0114,add_to_cart,"gaming glasses",2025-12-25T17:33:15.281Z,0
+E00743,U068,P0093,search,"blue light glasses for coding",2025-11-29T04:41:38.660Z,0
+E00744,U030,P0018,purchase,"blue light glasses for coding",2025-12-20T15:05:07.897Z,0
+E00745,U019,P0256,add_to_cart,"rayban aviators",2025-11-30T15:44:26.781Z,0
+E00746,U061,P0024,click,"gaming glasses",2025-12-26T23:18:48.550Z,256
+E00747,U055,P0150,click,"transparent frames",2025-12-15T06:58:51.268Z,182
+E00748,U081,P0265,add_to_cart,"gaming glasses",2025-12-13T07:02:09.790Z,0
+E00749,U095,P0296,click,"blue light glasses for coding",2025-12-26T06:37:48.842Z,175
+E00750,U077,P0257,search,"gaming glasses",2025-12-24T09:38:21.138Z,0
+E00751,U050,P0200,add_to_cart,"sunglasses for driving",2025-12-24T02:28:32.628Z,0
+E00752,U044,P0164,search,"transparent frames",2025-12-23T14:24:24.392Z,0
+E00753,U007,P0120,search,"contact lenses for dry eyes",2025-12-18T08:57:12.637Z,0
+E00754,U091,P0224,search,"gold round glasses",2025-12-27T20:35:10.251Z,0
+E00755,U015,P0065,search,"gaming glasses",2025-12-17T02:31:59.584Z,0
+E00756,U023,P0204,search,"sunglasses for driving",2025-12-25T16:08:59.810Z,0
+E00757,U044,P0148,search,"stylish eyeglasses",2025-12-26T09:16:09.134Z,0
+E00758,U078,P0072,add_to_cart,"gaming glasses",2025-12-17T11:16:58.931Z,0
+E00759,U058,P0244,search,"transparent frames",2025-12-13T18:03:02.556Z,0
+E00760,U004,P0018,search,"gold round glasses",2025-12-10T21:12:59.290Z,0
+E00761,U065,P0294,click,"running sunglasses",2025-12-06T20:23:33.573Z,57
+E00762,U014,P0073,search,"blue light glasses for coding",2025-12-19T19:37:19.127Z,0
+E00763,U021,P0041,click,"stylish eyeglasses",2025-12-07T23:52:20.883Z,59
+E00764,U013,P0114,click,"rayban aviators",2025-12-06T08:01:22.324Z,292
+E00765,U081,P0080,click,"transparent frames",2025-12-24T02:21:38.512Z,118
+E00766,U055,P0226,click,"blue light glasses for coding",2025-12-15T20:55:06.938Z,43
+E00767,U028,P0109,search,"vincent chase computer glasses",2025-12-17T02:40:24.891Z,0
+E00768,U043,P0071,click,"sunglasses for driving",2025-12-07T06:35:02.976Z,299
+E00769,U043,P0179,search,"rayban aviators",2025-12-14T12:46:08.172Z,0
+E00770,U052,P0063,search,"rayban aviators",2025-12-15T14:11:50.652Z,0
+E00771,U038,P0036,search,"rayban aviators",2025-12-03T08:04:53.419Z,0
+E00772,U006,P0071,purchase,"contact lenses for dry eyes",2025-12-12T23:53:47.793Z,0
+E00773,U084,P0085,search,"rayban aviators",2025-12-18T09:35:58.526Z,0
+E00774,U041,P0225,search,"vincent chase computer glasses",2025-12-19T18:30:32.967Z,0
+E00775,U042,P0218,click,"running sunglasses",2025-12-09T13:43:49.900Z,25
+E00776,U064,P0163,click,"running sunglasses",2025-12-18T09:10:58.775Z,260
+E00777,U059,P0031,click,"gold round glasses",2025-12-26T09:56:06.091Z,170
+E00778,U061,P0223,add_to_cart,"gold round glasses",2025-12-21T14:38:50.224Z,0
+E00779,U070,P0264,search,"running sunglasses",2025-12-01T08:27:38.649Z,0
+E00780,U011,P0252,search,"prescription glasses",2025-12-03T16:16:38.895Z,0
+E00781,U055,P0251,search,"black rimless frames",2025-12-10T19:18:26.231Z,0
+E00782,U072,P0180,search,"contact lenses for dry eyes",2025-12-04T14:39:19.440Z,0
+E00783,U011,P0152,search,"black rimless frames",2025-12-04T12:55:02.649Z,0
+E00784,U004,P0046,search,"prescription glasses",2025-12-16T08:40:37.665Z,0
+E00785,U001,P0248,add_to_cart,"vincent chase computer glasses",2025-12-18T23:41:15.476Z,0
+E00786,U092,P0026,search,"sunglasses for driving",2025-12-14T22:01:32.333Z,0
+E00787,U011,P0066,search,"vincent chase computer glasses",2025-12-20T18:55:45.411Z,0
+E00788,U062,P0150,search,"gold round glasses",2025-12-02T13:21:33.035Z,0
+E00789,U057,P0215,search,"stylish eyeglasses",2025-12-11T19:56:06.448Z,0
+E00790,U037,P0055,add_to_cart,"sunglasses for driving",2025-12-08T02:09:09.973Z,0
+E00791,U064,P0145,add_to_cart,"prescription glasses",2025-12-16T08:32:16.498Z,0
+E00792,U060,P0114,click,"contact lenses for dry eyes",2025-12-21T19:38:06.936Z,33
+E00793,U014,P0197,search,"stylish eyeglasses",2025-12-27T17:08:30.344Z,0
+E00794,U055,P0187,search,"sunglasses for driving",2025-12-18T19:27:04.174Z,0
+E00795,U012,P0147,search,"blue light glasses for coding",2025-12-26T10:53:06.184Z,0
+E00796,U014,P0199,search,"black rimless frames",2025-12-02T12:21:01.385Z,0
+E00797,U033,P0238,purchase,"stylish eyeglasses",2025-12-03T01:31:59.948Z,0
+E00798,U089,P0112,click,"black rimless frames",2025-12-10T03:06:20.960Z,87
+E00799,U079,P0043,click,"rayban aviators",2025-12-10T17:17:35.820Z,36
+E00800,U075,P0091,search,"stylish eyeglasses",2025-12-02T00:02:11.019Z,0
+E00801,U090,P0202,click,"sunglasses for driving",2025-11-29T23:47:02.372Z,115
+E00802,U049,P0104,purchase,"gaming glasses",2025-12-01T10:09:08.807Z,0
+E00803,U034,P0178,search,"blue light glasses for coding",2025-12-05T16:28:17.607Z,0
+E00804,U073,P0225,search,"vincent chase computer glasses",2025-12-16T18:32:03.212Z,0
+E00805,U058,P0131,click,"black rimless frames",2025-12-03T10:25:09.445Z,211
+E00806,U062,P0154,click,"contact lenses for dry eyes",2025-12-18T07:41:01.465Z,189
+E00807,U044,P0217,add_to_cart,"contact lenses for dry eyes",2025-12-03T00:57:52.374Z,0
+E00808,U067,P0193,click,"rayban aviators",2025-12-22T19:02:34.812Z,288
+E00809,U027,P0211,search,"contact lenses for dry eyes",2025-12-16T04:33:55.854Z,0
+E00810,U036,P0207,purchase,"gold round glasses",2025-12-17T20:44:16.580Z,0
+E00811,U067,P0213,add_to_cart,"rayban aviators",2025-12-27T07:49:50.541Z,0
+E00812,U014,P0164,click,"contact lenses for dry eyes",2025-12-16T15:23:32.316Z,275
+E00813,U041,P0153,click,"contact lenses for dry eyes",2025-12-26T03:09:54.727Z,73
+E00814,U018,P0143,search,"black rimless frames",2025-12-18T02:59:11.292Z,0
+E00815,U083,P0207,search,"blue light glasses for coding",2025-12-12T04:40:05.835Z,0
+E00816,U072,P0071,click,"rayban aviators",2025-12-15T03:00:05.177Z,32
+E00817,U074,P0031,add_to_cart,"blue light glasses for coding",2025-12-26T21:24:40.288Z,0
+E00818,U066,P0042,click,"rayban aviators",2025-12-23T23:24:15.962Z,114
+E00819,U023,P0098,search,"rayban aviators",2025-12-18T23:40:31.667Z,0
+E00820,U023,P0115,search,"gaming glasses",2025-12-16T17:48:26.406Z,0
+E00821,U078,P0233,search,"prescription glasses",2025-12-25T17:28:29.133Z,0
+E00822,U028,P0148,click,"running sunglasses",2025-12-22T19:55:18.271Z,24
+E00823,U029,P0087,search,"vincent chase computer glasses",2025-12-18T05:46:46.573Z,0
+E00824,U017,P0042,search,"rayban aviators",2025-12-11T00:54:19.400Z,0
+E00825,U044,P0235,search,"gold round glasses",2025-12-26T21:11:26.126Z,0
+E00826,U027,P0300,search,"gold round glasses",2025-12-15T13:12:05.035Z,0
+E00827,U079,P0135,click,"running sunglasses",2025-12-21T07:39:46.780Z,206
+E00828,U082,P0293,click,"prescription glasses",2025-12-08T05:09:28.743Z,73
+E00829,U075,P0231,add_to_cart,"black rimless frames",2025-12-06T02:07:10.124Z,0
+E00830,U092,P0073,add_to_cart,"transparent frames",2025-12-13T09:53:35.254Z,0
+E00831,U068,P0259,click,"transparent frames",2025-12-18T09:13:39.986Z,115
+E00832,U043,P0066,add_to_cart,"gold round glasses",2025-12-02T18:28:49.188Z,0
+E00833,U069,P0256,search,"contact lenses for dry eyes",2025-12-27T03:06:26.202Z,0
+E00834,U041,P0276,click,"contact lenses for dry eyes",2025-12-26T02:52:40.372Z,291
+E00835,U062,P0086,search,"gaming glasses",2025-12-08T06:28:45.785Z,0
+E00836,U046,P0141,search,"rayban aviators",2025-12-04T13:24:54.139Z,0
+E00837,U011,P0262,click,"black rimless frames",2025-12-23T14:33:51.259Z,261
+E00838,U049,P0266,search,"vincent chase computer glasses",2025-12-17T05:33:46.866Z,0
+E00839,U003,P0152,purchase,"running sunglasses",2025-12-05T14:37:53.956Z,0
+E00840,U071,P0077,click,"sunglasses for driving",2025-12-25T06:46:43.600Z,283
+E00841,U028,P0148,click,"running sunglasses",2025-12-11T14:54:44.305Z,255
+E00842,U073,P0225,search,"running sunglasses",2025-12-25T17:46:15.545Z,0
+E00843,U025,P0107,add_to_cart,"vincent chase computer glasses",2025-12-11T23:06:52.407Z,0
+E00844,U029,P0182,click,"contact lenses for dry eyes",2025-12-15T19:46:52.312Z,40
+E00845,U088,P0288,add_to_cart,"gold round glasses",2025-12-15T16:06:14.232Z,0
+E00846,U016,P0124,add_to_cart,"running sunglasses",2025-12-24T14:06:17.997Z,0
+E00847,U062,P0111,search,"gaming glasses",2025-12-10T17:57:12.048Z,0
+E00848,U043,P0190,click,"sunglasses for driving",2025-12-25T09:57:22.107Z,195
+E00849,U035,P0035,search,"vincent chase computer glasses",2025-12-28T12:52:52.769Z,0
+E00850,U023,P0203,search,"gaming glasses",2025-12-24T04:03:46.723Z,0
+E00851,U098,P0149,click,"gaming glasses",2025-12-27T19:50:42.016Z,59
+E00852,U061,P0283,add_to_cart,"transparent frames",2025-12-08T23:33:40.460Z,0
+E00853,U083,P0190,click,"gold round glasses",2025-12-03T20:54:20.041Z,53
+E00854,U095,P0100,search,"vincent chase computer glasses",2025-12-06T19:30:43.036Z,0
+E00855,U040,P0099,search,"black rimless frames",2025-12-11T07:05:16.575Z,0
+E00856,U052,P0246,search,"sunglasses for driving",2025-12-01T07:54:17.965Z,0
+E00857,U040,P0231,click,"transparent frames",2025-12-10T01:38:33.112Z,191
+E00858,U035,P0106,click,"transparent frames",2025-12-19T01:11:51.801Z,259
+E00859,U016,P0146,add_to_cart,"running sunglasses",2025-12-26T23:42:27.697Z,0
+E00860,U054,P0275,add_to_cart,"stylish eyeglasses",2025-12-26T12:36:29.511Z,0
+E00861,U028,P0199,add_to_cart,"gaming glasses",2025-12-28T11:38:08.985Z,0
+E00862,U025,P0141,search,"blue light glasses for coding",2025-12-05T01:23:20.479Z,0
+E00863,U054,P0050,search,"blue light glasses for coding",2025-12-10T07:38:40.394Z,0
+E00864,U065,P0065,search,"rayban aviators",2025-11-29T18:32:09.746Z,0
+E00865,U032,P0110,search,"black rimless frames",2025-12-21T00:36:06.772Z,0
+E00866,U088,P0022,add_to_cart,"rayban aviators",2025-11-28T21:13:52.640Z,0
+E00867,U056,P0207,click,"blue light glasses for coding",2025-12-23T01:40:53.671Z,118
+E00868,U061,P0264,click,"contact lenses for dry eyes",2025-12-12T03:32:15.328Z,283
+E00869,U070,P0074,click,"rayban aviators",2025-12-05T19:02:10.169Z,142
+E00870,U039,P0216,search,"black rimless frames",2025-12-28T01:43:39.958Z,0
+E00871,U004,P0128,click,"contact lenses for dry eyes",2025-12-22T11:50:21.561Z,147
+E00872,U032,P0232,click,"sunglasses for driving",2025-12-26T00:39:15.897Z,147
+E00873,U040,P0183,add_to_cart,"prescription glasses",2025-12-21T15:25:08.311Z,0
+E00874,U007,P0034,search,"transparent frames",2025-12-25T11:14:34.451Z,0
+E00875,U095,P0203,add_to_cart,"sunglasses for driving",2025-12-07T07:05:04.536Z,0
+E00876,U046,P0019,add_to_cart,"rayban aviators",2025-12-16T02:20:09.909Z,0
+E00877,U019,P0205,add_to_cart,"blue light glasses for coding",2025-12-01T23:19:44.922Z,0
+E00878,U085,P0264,search,"black rimless frames",2025-12-04T15:25:51.216Z,0
+E00879,U040,P0142,add_to_cart,"prescription glasses",2025-12-20T18:53:55.055Z,0
+E00880,U032,P0298,search,"black rimless frames",2025-12-09T20:05:14.409Z,0
+E00881,U055,P0290,click,"vincent chase computer glasses",2025-12-18T06:28:34.951Z,21
+E00882,U020,P0132,search,"running sunglasses",2025-12-05T11:55:16.397Z,0
+E00883,U044,P0047,search,"gold round glasses",2025-12-18T15:40:07.722Z,0
+E00884,U032,P0010,search,"rayban aviators",2025-12-19T04:36:05.192Z,0
+E00885,U091,P0053,add_to_cart,"sunglasses for driving",2025-12-27T15:45:49.246Z,0
+E00886,U082,P0152,add_to_cart,"gold round glasses",2025-12-03T13:24:19.938Z,0
+E00887,U027,P0270,click,"gold round glasses",2025-12-09T11:05:12.564Z,261
+E00888,U074,P0062,search,"blue light glasses for coding",2025-12-08T17:16:58.461Z,0
+E00889,U004,P0213,search,"stylish eyeglasses",2025-12-12T05:44:53.997Z,0
+E00890,U030,P0273,click,"gaming glasses",2025-12-26T16:48:18.375Z,36
+E00891,U034,P0156,search,"prescription glasses",2025-12-04T07:45:39.442Z,0
+E00892,U068,P0085,click,"stylish eyeglasses",2025-12-14T14:38:40.819Z,267
+E00893,U065,P0206,search,"black rimless frames",2025-12-21T01:41:16.226Z,0
+E00894,U072,P0120,click,"running sunglasses",2025-12-11T23:40:04.970Z,69
+E00895,U081,P0063,click,"gold round glasses",2025-12-14T11:06:48.862Z,130
+E00896,U100,P0080,click,"running sunglasses",2025-12-25T20:01:04.083Z,114
+E00897,U067,P0125,click,"gold round glasses",2025-11-30T12:01:38.221Z,61
+E00898,U048,P0222,click,"rayban aviators",2025-11-30T08:20:12.054Z,282
+E00899,U060,P0122,search,"black rimless frames",2025-12-18T07:40:33.610Z,0
+E00900,U041,P0278,click,"black rimless frames",2025-12-13T18:51:30.702Z,273
+E00901,U017,P0106,search,"rayban aviators",2025-12-03T04:39:34.640Z,0
+E00902,U038,P0079,search,"gaming glasses",2025-12-12T06:23:55.944Z,0
+E00903,U077,P0128,click,"gold round glasses",2025-12-08T00:43:17.242Z,250
+E00904,U060,P0104,search,"sunglasses for driving",2025-12-28T02:32:47.501Z,0
+E00905,U030,P0033,click,"gold round glasses",2025-12-06T04:36:15.225Z,97
+E00906,U007,P0207,click,"sunglasses for driving",2025-12-28T07:06:16.266Z,263
+E00907,U082,P0086,click,"stylish eyeglasses",2025-12-12T00:46:09.032Z,80
+E00908,U089,P0099,search,"gaming glasses",2025-12-15T17:31:29.297Z,0
+E00909,U092,P0139,click,"vincent chase computer glasses",2025-12-01T06:35:31.961Z,42
+E00910,U040,P0012,add_to_cart,"gaming glasses",2025-12-22T19:13:15.151Z,0
+E00911,U057,P0218,click,"running sunglasses",2025-12-16T07:52:25.735Z,86
+E00912,U081,P0173,add_to_cart,"vincent chase computer glasses",2025-12-03T18:18:44.591Z,0
+E00913,U100,P0288,search,"black rimless frames",2025-12-11T01:20:53.607Z,0
+E00914,U009,P0187,search,"prescription glasses",2025-12-22T18:38:29.855Z,0
+E00915,U092,P0123,add_to_cart,"vincent chase computer glasses",2025-12-07T05:23:03.986Z,0
+E00916,U015,P0090,add_to_cart,"transparent frames",2025-12-06T22:37:30.055Z,0
+E00917,U038,P0274,search,"stylish eyeglasses",2025-12-06T12:53:42.440Z,0
+E00918,U077,P0266,add_to_cart,"rayban aviators",2025-12-15T01:26:20.738Z,0
+E00919,U012,P0117,purchase,"sunglasses for driving",2025-12-04T05:51:57.882Z,0
+E00920,U025,P0251,search,"black rimless frames",2025-12-05T13:04:11.334Z,0
+E00921,U010,P0202,click,"contact lenses for dry eyes",2025-12-05T21:04:39.020Z,257
+E00922,U013,P0196,click,"contact lenses for dry eyes",2025-12-22T05:42:06.944Z,287
+E00923,U088,P0101,click,"gold round glasses",2025-12-09T13:57:23.460Z,117
+E00924,U041,P0091,add_to_cart,"transparent frames",2025-12-19T09:17:03.279Z,0
+E00925,U032,P0215,click,"stylish eyeglasses",2025-11-29T22:29:11.639Z,193
+E00926,U088,P0042,search,"gaming glasses",2025-12-19T23:15:28.039Z,0
+E00927,U060,P0164,add_to_cart,"running sunglasses",2025-12-07T21:00:32.655Z,0
+E00928,U049,P0294,click,"vincent chase computer glasses",2025-12-15T03:42:56.790Z,116
+E00929,U015,P0100,search,"gold round glasses",2025-12-06T08:03:32.220Z,0
+E00930,U019,P0093,search,"prescription glasses",2025-12-26T09:17:52.289Z,0
+E00931,U013,P0250,purchase,"sunglasses for driving",2025-12-24T02:15:36.245Z,0
+E00932,U012,P0057,click,"vincent chase computer glasses",2025-12-03T09:47:27.423Z,211
+E00933,U100,P0020,search,"transparent frames",2025-12-12T01:58:54.888Z,0
+E00934,U055,P0096,add_to_cart,"prescription glasses",2025-12-01T14:39:40.071Z,0
+E00935,U065,P0269,search,"stylish eyeglasses",2025-12-12T16:24:45.652Z,0
+E00936,U068,P0294,click,"gaming glasses",2025-12-06T16:47:16.803Z,165
+E00937,U083,P0129,click,"stylish eyeglasses",2025-12-12T19:26:14.237Z,256
+E00938,U098,P0041,click,"running sunglasses",2025-12-24T22:52:43.632Z,112
+E00939,U059,P0240,search,"vincent chase computer glasses",2025-12-12T00:37:41.165Z,0
+E00940,U095,P0223,add_to_cart,"blue light glasses for coding",2025-12-14T04:10:02.221Z,0
+E00941,U077,P0113,search,"rayban aviators",2025-12-17T13:10:18.037Z,0
+E00942,U094,P0125,click,"stylish eyeglasses",2025-12-15T11:53:00.547Z,262
+E00943,U069,P0277,search,"rayban aviators",2025-12-07T00:53:09.477Z,0
+E00944,U048,P0149,search,"black rimless frames",2025-12-05T10:20:46.940Z,0
+E00945,U035,P0266,add_to_cart,"stylish eyeglasses",2025-12-09T03:49:13.841Z,0
+E00946,U025,P0068,search,"black rimless frames",2025-12-04T09:15:57.460Z,0
+E00947,U097,P0128,click,"contact lenses for dry eyes",2025-12-18T02:18:08.082Z,176
+E00948,U042,P0194,add_to_cart,"running sunglasses",2025-12-27T16:57:04.896Z,0
+E00949,U095,P0177,search,"prescription glasses",2025-12-07T04:14:06.179Z,0
+E00950,U065,P0031,click,"running sunglasses",2025-12-09T12:27:25.948Z,121
+E00951,U043,P0220,search,"sunglasses for driving",2025-12-03T04:09:25.402Z,0
+E00952,U043,P0288,click,"transparent frames",2025-12-10T23:11:48.247Z,287
+E00953,U054,P0233,search,"running sunglasses",2025-12-23T03:23:40.625Z,0
+E00954,U017,P0151,click,"vincent chase computer glasses",2025-12-23T07:29:17.210Z,210
+E00955,U004,P0098,click,"blue light glasses for coding",2025-12-23T02:16:21.760Z,133
+E00956,U024,P0110,click,"running sunglasses",2025-12-15T07:23:17.724Z,73
+E00957,U100,P0260,purchase,"contact lenses for dry eyes",2025-12-04T20:49:52.672Z,0
+E00958,U020,P0131,click,"blue light glasses for coding",2025-11-29T02:36:31.858Z,152
+E00959,U051,P0268,search,"transparent frames",2025-12-22T11:42:28.265Z,0
+E00960,U016,P0281,click,"rayban aviators",2025-12-14T06:42:53.725Z,144
+E00961,U020,P0067,search,"vincent chase computer glasses",2025-12-15T01:59:44.061Z,0
+E00962,U043,P0260,search,"transparent frames",2025-12-12T21:51:03.868Z,0
+E00963,U098,P0263,search,"transparent frames",2025-12-07T16:45:20.552Z,0
+E00964,U072,P0012,add_to_cart,"transparent frames",2025-12-11T20:34:56.790Z,0
+E00965,U031,P0249,click,"gold round glasses",2025-12-05T16:55:23.105Z,83
+E00966,U066,P0056,search,"running sunglasses",2025-12-20T09:44:06.513Z,0
+E00967,U086,P0189,purchase,"blue light glasses for coding",2025-12-21T09:56:37.213Z,0
+E00968,U037,P0036,search,"prescription glasses",2025-12-22T09:34:34.137Z,0
+E00969,U034,P0196,search,"transparent frames",2025-12-13T23:43:46.266Z,0
+E00970,U038,P0087,search,"contact lenses for dry eyes",2025-12-01T02:57:54.386Z,0
+E00971,U041,P0157,search,"running sunglasses",2025-12-02T04:23:09.842Z,0
+E00972,U077,P0221,add_to_cart,"transparent frames",2025-12-16T01:03:04.478Z,0
+E00973,U057,P0271,search,"gaming glasses",2025-12-03T20:28:41.831Z,0
+E00974,U002,P0035,purchase,"vincent chase computer glasses",2025-12-05T11:54:38.512Z,0
+E00975,U005,P0077,search,"black rimless frames",2025-12-23T08:16:37.376Z,0
+E00976,U034,P0245,search,"blue light glasses for coding",2025-12-18T19:27:27.674Z,0
+E00977,U006,P0015,purchase,"gold round glasses",2025-12-17T10:20:19.743Z,0
+E00978,U036,P0230,click,"vincent chase computer glasses",2025-12-26T16:28:57.562Z,200
+E00979,U049,P0282,click,"stylish eyeglasses",2025-12-04T22:39:52.988Z,123
+E00980,U003,P0104,click,"running sunglasses",2025-12-03T09:42:10.198Z,279
+E00981,U083,P0074,click,"gaming glasses",2025-12-22T08:49:26.280Z,155
+E00982,U098,P0181,add_to_cart,"contact lenses for dry eyes",2025-12-09T14:53:21.764Z,0
+E00983,U065,P0115,search,"vincent chase computer glasses",2025-12-16T14:38:06.436Z,0
+E00984,U095,P0234,search,"running sunglasses",2025-12-02T09:30:54.109Z,0
+E00985,U087,P0043,search,"contact lenses for dry eyes",2025-12-02T00:07:03.205Z,0
+E00986,U016,P0080,search,"gaming glasses",2025-12-05T15:00:40.297Z,0
+E00987,U032,P0243,search,"stylish eyeglasses",2025-12-24T07:11:41.685Z,0
+E00988,U004,P0299,search,"vincent chase computer glasses",2025-12-21T23:38:14.042Z,0
+E00989,U072,P0252,search,"vincent chase computer glasses",2025-12-28T13:55:18.194Z,0
+E00990,U071,P0162,search,"gold round glasses",2025-12-24T11:45:39.664Z,0
+E00991,U027,P0234,search,"stylish eyeglasses",2025-12-22T17:08:30.434Z,0
+E00992,U053,P0190,click,"sunglasses for driving",2025-12-14T12:15:21.589Z,226
+E00993,U047,P0111,search,"gold round glasses",2025-12-27T11:39:58.268Z,0
+E00994,U045,P0250,click,"rayban aviators",2025-12-07T13:34:41.780Z,126
+E00995,U049,P0211,purchase,"running sunglasses",2025-12-06T09:14:01.684Z,0
+E00996,U093,P0045,click,"transparent frames",2025-12-02T13:03:06.991Z,104
+E00997,U016,P0255,click,"prescription glasses",2025-12-05T14:44:02.579Z,183
+E00998,U011,P0053,click,"contact lenses for dry eyes",2025-12-22T03:46:59.557Z,71
+E00999,U052,P0098,search,"running sunglasses",2025-12-14T23:36:07.853Z,0
