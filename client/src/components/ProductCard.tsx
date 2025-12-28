@@ -29,7 +29,8 @@ export function ProductCard({ product, searchQuery, onClick }: ProductCardProps)
 
         setExplaining(true);
         try {
-            const res = await fetch(`http://localhost:3000/api/explain?query=${encodeURIComponent(searchQuery || '')}&productTitle=${encodeURIComponent(product.title)}`);
+            const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+            const res = await fetch(`${API_URL}/api/explain?query=${encodeURIComponent(searchQuery || '')}&productTitle=${encodeURIComponent(product.title)}`);
             const data = await res.json();
             setExplanation(data.explanation);
         } catch (err) {

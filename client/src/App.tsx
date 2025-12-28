@@ -33,7 +33,8 @@ function App() {
     setLoading(true);
     setHasSearched(true);
     try {
-      let url = `http://localhost:3000/api/search?q=${encodeURIComponent(query)}`;
+      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+      let url = `${API_URL}/api/search?q=${encodeURIComponent(query)}`;
       if (selectedCategory) url += `&category=${encodeURIComponent(selectedCategory)}`;
       if (minPrice > 0) url += `&minPrice=${minPrice}`;
 
@@ -52,7 +53,8 @@ function App() {
     if (!confirm('This will ingest Lenskart sample data. Continue?')) return;
     setIngesting(true);
     try {
-      const res = await fetch('http://localhost:3000/api/ingest', { method: 'POST' });
+      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+      const res = await fetch(`${API_URL}/api/ingest`, { method: 'POST' });
       const data = await res.json();
       alert(data.message || 'Ingestion completed');
     } catch (e) {
